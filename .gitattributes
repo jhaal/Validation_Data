@@ -1,0 +1,10 @@
+# keep result tables and inputs byte-identical (hashes in qa/revision_source_manifest.json)
+*.csv -text
+*.md -text
+*.py -text
+*.json -text
+*.x2m -text
+*.c2m -text
+*.inp -text
+*.xml -text
+*.rx -text

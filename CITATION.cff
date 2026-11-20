@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+title: "DRAGON5 two-group library for a 37-element PHWR lattice benchmarked against OpenMC: data and inputs"
+authors:
+  - family-names: Jha
+    given-names: Alok Kumar
+    orcid: "https://orcid.org/0000-0001-6860-1118"
+    affiliation: "Nuclear Power Corporation of India Limited"
+type: dataset
+license: MIT
+repository-code: "https://github.com/jhaal/Validation_Data"
+keywords:
+  - PHWR
+  - CANDU
+  - DRAGON
+  - OpenMC
+  - NJOY
+  - temperature reactivity coefficients
+  - two-group cross sections
