@@ -11,7 +11,6 @@ Data and inputs for the benchmark of a DRAGON5 two-group branch library for a 37
 | `data/openmc_two_group_rate_tallies.csv` | OpenMC whole-cell two-group tallies (boundary 4 eV) and rate coefficients |
 | `data/fuel_isotopic_inventories.csv` | Atom densities (b⁻¹cm⁻¹) in the four fuel zones at the 41 burnups, used by both codes |
 | `data/dragon_moderator_mesh_convergence.csv` | Moderator-mesh (1–40 rings) and tracking study, fresh nominal state |
-| `data/njoy_dragon_comparison.csv` | NJOY21 and DRAGON two-group constants of the reactivity-device states |
 | `dragon_inputs/benchmark_library/` | DRAGON 5.1 decks of the benchmarked library (one per burnup) with procedures and DRAGLIB access script |
 | `openmc_inputs/` | OpenMC 0.15 inputs for the fresh nominal state; other states change compositions (`fuel_isotopic_inventories.csv`) and temperatures |
 | `source/` | Scripts that compute the published results from `data/` (Python 3 standard library) |
@@ -25,6 +24,6 @@ python source/analyze_benchmark_library.py   # Section 3 results -> data/benchma
 python source/analyze_corrected_matrix.py    # mesh and evaluated-data sensitivity -> data/corrected_matrix_*.csv
 ```
 
-Δk = 10⁵ (k_OpenMC − k_DRAGON). Transport calculations used DRAGON 5.1.0 (DRAGLIBs `draglibJef2p2_v5p1`, `draglibendfb8r1_v5p1`), OpenMC 0.15.3/0.15.4-dev169 with ENDF/B-VIII.1, and NJOY21 1.2.74.
+Δk = 10⁵ (k_OpenMC − k_DRAGON). Transport calculations used DRAGON 5.1.0 (DRAGLIBs `draglibJef2p2_v5p1`, `draglibendfb8r1_v5p1`) and OpenMC 0.15.3/0.15.4-dev169 with ENDF/B-VIII.1.
 
 License: MIT.
