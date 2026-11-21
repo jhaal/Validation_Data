@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tallies>
+  <filter id="28" type="energy">
+    <bins>1e-05 4.0 20000000.0</bins>
+  </filter>
+  <tally id="28" name="whole_cell_two_group_rates">
+    <filters>28</filters>
+    <scores>flux absorption fission nu-fission</scores>
+  </tally>
+</tallies>

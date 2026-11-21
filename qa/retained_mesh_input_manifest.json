@@ -1,0 +1,452 @@
+[
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R01_T12D20.x2m",
+    "sha256": "c9adb8834077b21ccf98da331373342172a2377a7f59649afaa1f724d10f21e0",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R01_T12D20_proc/GEOM37_NXT.c2m",
+    "sha256": "c0e7cc8d20a12c808b04d4d33a99bebf05102f41b571b31aedd88682d884de5b",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R01_T12D20_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R01_T3D3.x2m",
+    "sha256": "87856ef28c2e60d64dc17841e3391ce83347914ec9d5502915aca123afea7b6b",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R01_T3D3_proc/GEOM37_NXT.c2m",
+    "sha256": "c0e7cc8d20a12c808b04d4d33a99bebf05102f41b571b31aedd88682d884de5b",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R01_T3D3_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R01_T8D10.x2m",
+    "sha256": "807cefccda58102f250588fc35ffb72a057cbb35301d6fff4fb70585af750d24",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R01_T8D10_proc/GEOM37_NXT.c2m",
+    "sha256": "c0e7cc8d20a12c808b04d4d33a99bebf05102f41b571b31aedd88682d884de5b",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R01_T8D10_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R05_T12D20.x2m",
+    "sha256": "c9adb8834077b21ccf98da331373342172a2377a7f59649afaa1f724d10f21e0",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R05_T12D20_proc/GEOM37_NXT.c2m",
+    "sha256": "62e968785390493fac6696db4a8c9aec47e7fe7025daaf24d8e043f5170ea2ee",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R05_T12D20_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R05_T3D3.x2m",
+    "sha256": "87856ef28c2e60d64dc17841e3391ce83347914ec9d5502915aca123afea7b6b",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R05_T3D3_proc/GEOM37_NXT.c2m",
+    "sha256": "62e968785390493fac6696db4a8c9aec47e7fe7025daaf24d8e043f5170ea2ee",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R05_T3D3_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R05_T8D10.x2m",
+    "sha256": "807cefccda58102f250588fc35ffb72a057cbb35301d6fff4fb70585af750d24",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R05_T8D10_proc/GEOM37_NXT.c2m",
+    "sha256": "62e968785390493fac6696db4a8c9aec47e7fe7025daaf24d8e043f5170ea2ee",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R05_T8D10_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R10_T12D20.x2m",
+    "sha256": "c9adb8834077b21ccf98da331373342172a2377a7f59649afaa1f724d10f21e0",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R10_T12D20_proc/GEOM37_NXT.c2m",
+    "sha256": "d883adcfc57d2dbe9d82954d14fc40464072e2fc2fef8f084ceb89442a713924",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R10_T12D20_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R10_T3D3.x2m",
+    "sha256": "87856ef28c2e60d64dc17841e3391ce83347914ec9d5502915aca123afea7b6b",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R10_T3D3_proc/GEOM37_NXT.c2m",
+    "sha256": "d883adcfc57d2dbe9d82954d14fc40464072e2fc2fef8f084ceb89442a713924",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R10_T3D3_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R10_T8D10.x2m",
+    "sha256": "807cefccda58102f250588fc35ffb72a057cbb35301d6fff4fb70585af750d24",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R10_T8D10_proc/GEOM37_NXT.c2m",
+    "sha256": "d883adcfc57d2dbe9d82954d14fc40464072e2fc2fef8f084ceb89442a713924",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R10_T8D10_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R20_T12D20.x2m",
+    "sha256": "c9adb8834077b21ccf98da331373342172a2377a7f59649afaa1f724d10f21e0",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R20_T12D20_proc/GEOM37_NXT.c2m",
+    "sha256": "3cdd925b3a8c2b93a66a23dffe76ddc02dc8ba56c2d36039f95b40aa87fa91fd",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R20_T12D20_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R20_T3D3.x2m",
+    "sha256": "87856ef28c2e60d64dc17841e3391ce83347914ec9d5502915aca123afea7b6b",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R20_T3D3_proc/GEOM37_NXT.c2m",
+    "sha256": "3cdd925b3a8c2b93a66a23dffe76ddc02dc8ba56c2d36039f95b40aa87fa91fd",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R20_T3D3_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R20_T8D10.x2m",
+    "sha256": "807cefccda58102f250588fc35ffb72a057cbb35301d6fff4fb70585af750d24",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R20_T8D10_proc/GEOM37_NXT.c2m",
+    "sha256": "3cdd925b3a8c2b93a66a23dffe76ddc02dc8ba56c2d36039f95b40aa87fa91fd",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R20_T8D10_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R40_T12D20.x2m",
+    "sha256": "c9adb8834077b21ccf98da331373342172a2377a7f59649afaa1f724d10f21e0",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R40_T12D20_proc/GEOM37_NXT.c2m",
+    "sha256": "9dab4ba12e66eec9e71c312a7571559732901a109ff37d85c3cca727b277c2ff",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R40_T12D20_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R40_T3D3.x2m",
+    "sha256": "87856ef28c2e60d64dc17841e3391ce83347914ec9d5502915aca123afea7b6b",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R40_T3D3_proc/GEOM37_NXT.c2m",
+    "sha256": "9dab4ba12e66eec9e71c312a7571559732901a109ff37d85c3cca727b277c2ff",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R40_T3D3_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R40_T8D10.x2m",
+    "sha256": "807cefccda58102f250588fc35ffb72a057cbb35301d6fff4fb70585af750d24",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R40_T8D10_proc/GEOM37_NXT.c2m",
+    "sha256": "9dab4ba12e66eec9e71c312a7571559732901a109ff37d85c3cca727b277c2ff",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_E81_R40_T8D10_proc/MATDPLD2O.c2m",
+    "sha256": "ebe0bc29dc745adc0a590e864657885bb4eac42fdd0d8cc2a36773d3771a08dc",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R01_T12D20.x2m",
+    "sha256": "0f99820c1ea310b9b1e4568033e06257588b8812f48ec9bf0cc515a177a311fd",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R01_T12D20_proc/GEOM37_NXT.c2m",
+    "sha256": "c0e7cc8d20a12c808b04d4d33a99bebf05102f41b571b31aedd88682d884de5b",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R01_T12D20_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R01_T3D3.x2m",
+    "sha256": "e7b5acff0da97d75f9359442b8feed13aee431945934b0fd68292a67a54ee23e",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R01_T3D3_proc/GEOM37_NXT.c2m",
+    "sha256": "c0e7cc8d20a12c808b04d4d33a99bebf05102f41b571b31aedd88682d884de5b",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R01_T3D3_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R01_T8D10.x2m",
+    "sha256": "e864b8056d26f196ee1af2c617c05d5890f584d3258ceba58cf5abff7fd0d1d4",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R01_T8D10_proc/GEOM37_NXT.c2m",
+    "sha256": "c0e7cc8d20a12c808b04d4d33a99bebf05102f41b571b31aedd88682d884de5b",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R01_T8D10_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R05_T12D20.x2m",
+    "sha256": "0f99820c1ea310b9b1e4568033e06257588b8812f48ec9bf0cc515a177a311fd",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R05_T12D20_proc/GEOM37_NXT.c2m",
+    "sha256": "62e968785390493fac6696db4a8c9aec47e7fe7025daaf24d8e043f5170ea2ee",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R05_T12D20_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R05_T3D3.x2m",
+    "sha256": "e7b5acff0da97d75f9359442b8feed13aee431945934b0fd68292a67a54ee23e",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R05_T3D3_proc/GEOM37_NXT.c2m",
+    "sha256": "62e968785390493fac6696db4a8c9aec47e7fe7025daaf24d8e043f5170ea2ee",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R05_T3D3_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R05_T8D10.x2m",
+    "sha256": "e864b8056d26f196ee1af2c617c05d5890f584d3258ceba58cf5abff7fd0d1d4",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R05_T8D10_proc/GEOM37_NXT.c2m",
+    "sha256": "62e968785390493fac6696db4a8c9aec47e7fe7025daaf24d8e043f5170ea2ee",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R05_T8D10_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R10_T12D20.x2m",
+    "sha256": "0f99820c1ea310b9b1e4568033e06257588b8812f48ec9bf0cc515a177a311fd",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R10_T12D20_proc/GEOM37_NXT.c2m",
+    "sha256": "d883adcfc57d2dbe9d82954d14fc40464072e2fc2fef8f084ceb89442a713924",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R10_T12D20_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R10_T3D3.x2m",
+    "sha256": "e7b5acff0da97d75f9359442b8feed13aee431945934b0fd68292a67a54ee23e",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R10_T3D3_proc/GEOM37_NXT.c2m",
+    "sha256": "d883adcfc57d2dbe9d82954d14fc40464072e2fc2fef8f084ceb89442a713924",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R10_T3D3_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R10_T8D10.x2m",
+    "sha256": "e864b8056d26f196ee1af2c617c05d5890f584d3258ceba58cf5abff7fd0d1d4",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R10_T8D10_proc/GEOM37_NXT.c2m",
+    "sha256": "d883adcfc57d2dbe9d82954d14fc40464072e2fc2fef8f084ceb89442a713924",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R10_T8D10_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R20_T12D20.x2m",
+    "sha256": "0f99820c1ea310b9b1e4568033e06257588b8812f48ec9bf0cc515a177a311fd",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R20_T12D20_proc/GEOM37_NXT.c2m",
+    "sha256": "3cdd925b3a8c2b93a66a23dffe76ddc02dc8ba56c2d36039f95b40aa87fa91fd",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R20_T12D20_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R20_T3D3.x2m",
+    "sha256": "e7b5acff0da97d75f9359442b8feed13aee431945934b0fd68292a67a54ee23e",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R20_T3D3_proc/GEOM37_NXT.c2m",
+    "sha256": "3cdd925b3a8c2b93a66a23dffe76ddc02dc8ba56c2d36039f95b40aa87fa91fd",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R20_T3D3_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R20_T8D10.x2m",
+    "sha256": "e864b8056d26f196ee1af2c617c05d5890f584d3258ceba58cf5abff7fd0d1d4",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R20_T8D10_proc/GEOM37_NXT.c2m",
+    "sha256": "3cdd925b3a8c2b93a66a23dffe76ddc02dc8ba56c2d36039f95b40aa87fa91fd",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R20_T8D10_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R40_T12D20.x2m",
+    "sha256": "0f99820c1ea310b9b1e4568033e06257588b8812f48ec9bf0cc515a177a311fd",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R40_T12D20_proc/GEOM37_NXT.c2m",
+    "sha256": "9dab4ba12e66eec9e71c312a7571559732901a109ff37d85c3cca727b277c2ff",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R40_T12D20_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R40_T3D3.x2m",
+    "sha256": "e7b5acff0da97d75f9359442b8feed13aee431945934b0fd68292a67a54ee23e",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R40_T3D3_proc/GEOM37_NXT.c2m",
+    "sha256": "9dab4ba12e66eec9e71c312a7571559732901a109ff37d85c3cca727b277c2ff",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R40_T3D3_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R40_T8D10.x2m",
+    "sha256": "e864b8056d26f196ee1af2c617c05d5890f584d3258ceba58cf5abff7fd0d1d4",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R40_T8D10_proc/GEOM37_NXT.c2m",
+    "sha256": "9dab4ba12e66eec9e71c312a7571559732901a109ff37d85c3cca727b277c2ff",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  },
+  {
+    "path": "dragon_inputs/moderator_mesh_study/VRF_MESHC_J2_R40_T8D10_proc/MATDPLD2O.c2m",
+    "sha256": "be789dd8335dfff49489dc07c81f56fb5843ce916f7ba9bcf166b54fb451a7f5",
+    "source_archive": "NSE_DRAGON_VALIDATION.tar"
+  }
+]

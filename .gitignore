@@ -1,8 +1,5 @@
 __pycache__/
+*.pyc
 .DS_Store
-qa/
-data/benchmark_library_*.csv
-data/corrected_matrix_summary.csv
-data/corrected_matrix_coefficients.csv
-data/corrected_matrix_states.csv
-data/corrected_matrix_two_group.csv
+*.h5
+*.log

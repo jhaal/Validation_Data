@@ -1,0 +1,212 @@
+{
+  "files": 41,
+  "states": 2132,
+  "warnings": 0,
+  "details": [
+    {
+      "file": "VRF_MATCH_J2_R20_BU00p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU00p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU01p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU01p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU02p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU02p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU03p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU03p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU04p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU04p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU05p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU05p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU06p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU06p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU07p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU07p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU08p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU08p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU09p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU09p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU10p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU10p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU11p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU11p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU12p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU12p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU13p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU13p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU14p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU14p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU15p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU15p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU16p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU16p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU17p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU17p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU18p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU18p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU19p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU19p5.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    },
+    {
+      "file": "VRF_MATCH_J2_R20_BU20p0.result",
+      "branch_results": 52,
+      "nonconvergence_warnings": 0
+    }
+  ]
+}

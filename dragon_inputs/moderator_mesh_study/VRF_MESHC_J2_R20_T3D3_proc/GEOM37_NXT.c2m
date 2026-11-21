@@ -1,0 +1,51 @@
+*DECK GEOM37_NXT
+PARAMETER GEOM ::
+  EDIT 1
+  ::: LINKED_LIST GEOM ;
+;
+MODULE GEO: ;
+
+* Mixtures:
+* 1 coolant D2O, 2 pressure tube, 3 helium gap, 4 calandria tube,
+* 5 moderator D2O, 6 fuel sheath, 11-14 natural-U fuel radial zones.
+REAL cell_pitch := 28.575 ;
+REAL Rci := 0.6122 ;
+REAL Rgi := 0.6540 ;
+REAL Rci1 Rci2 Rci3 := 0.3061 0.4898 0.5816 ;
+REAL Rcool := 5.1689 ;
+REAL Rpt := 5.6032 ;
+REAL Rgap := 6.4478 ;
+REAL Rct := 6.5875 ;
+REAL Rout := 14.2875 ;
+
+GEOM := GEO: :: CARCEL 27
+  EDIT 5
+  X- REFL X+ REFL
+  Y- REFL Y+ REFL
+  MESHX 0.0 <<cell_pitch>>
+  MESHY 0.0 <<cell_pitch>>
+  RADIUS 0.0 0.8670 2.4545 3.7295 <<Rcool>> <<Rpt>> <<Rgap>> <<Rct>>
+    6.9725 7.3575 7.7425 8.1275 8.5125 8.8975
+    9.2825 9.6675 10.0525 10.4375 10.8225 11.2075
+    11.5925 11.9775 12.3625 12.7475 13.1325 13.5175
+    13.9025 <<Rout>>
+  MIX 1 1 1 1 2 3 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
+  CLUSTER ROD1 ROD2 ROD3 ROD4
+  ::: ROD1 := GEO: TUBE 5
+    MIX 11 12 13 14 6
+    RADIUS 0.0 <<Rci1>> <<Rci2>> <<Rci3>> <<Rci>> <<Rgi>>
+    NPIN 1 RPIN 0.0000 APIN 0.0000 ;
+  ::: ROD2 := GEO: TUBE 5
+    MIX 11 12 13 14 6
+    RADIUS 0.0 <<Rci1>> <<Rci2>> <<Rci3>> <<Rci>> <<Rgi>>
+    NPIN 6 RPIN 1.4880 APIN 0.0000 ;
+  ::: ROD3 := GEO: TUBE 5
+    MIX 11 12 13 14 6
+    RADIUS 0.0 <<Rci1>> <<Rci2>> <<Rci3>> <<Rci>> <<Rgi>>
+    NPIN 12 RPIN 2.8750 APIN 0.0000 ;
+  ::: ROD4 := GEO: TUBE 5
+    MIX 11 12 13 14 6
+    RADIUS 0.0 <<Rci1>> <<Rci2>> <<Rci3>> <<Rci>> <<Rgi>>
+    NPIN 18 RPIN 4.3300 APIN 0.0000 ;
+;
+QUIT "LIST" .

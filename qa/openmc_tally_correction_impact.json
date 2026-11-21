@@ -1,0 +1,15 @@
+{
+  "cases": 2132,
+  "max_relative_change_in_point_estimates": {
+    "Sa1_openmc_rate": 2.455856019783631e-16,
+    "Sa2_openmc_rate": 2.2187899558420007e-16,
+    "fission1_openmc_rate": 1.8138932066082715e-16,
+    "fission2_openmc_rate": 1.5858825013691218e-16,
+    "nuSf1_openmc_rate": 2.5700332116409884e-16,
+    "nuSf2_openmc_rate": 2.2191991673599325e-16,
+    "thermal_to_fast_flux_ratio_from_tally": 1.874520145231096e-16
+  },
+  "benchmark_non_tally_results_identical": true,
+  "two_group_rounded_results_and_threshold_counts_unchanged": true,
+  "legacy_table_sha256": "4939f3db87993453eb226f83a84fd1093a712afcb1778d067e3ecbfd60578919"
+}

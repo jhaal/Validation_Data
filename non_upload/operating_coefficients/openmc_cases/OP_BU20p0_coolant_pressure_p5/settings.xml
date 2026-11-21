@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<settings>
+  <run_mode>eigenvalue</run_mode>
+  <particles>40000</particles>
+  <batches>200</batches>
+  <inactive>50</inactive>
+  <source type="independent" strength="1.0" particle="neutron">
+    <space type="fission">
+      <parameters>-14.2875 -14.2875 -1.0 14.2875 14.2875 1.0</parameters>
+    </space>
+  </source>
+  <temperature_method>interpolation</temperature_method>
+  <temperature_tolerance>0.5</temperature_tolerance>
+<seed>2026112105</seed><entropy_mesh>1</entropy_mesh><mesh id="1"><dimension>8 8 1</dimension><lower_left>-14.2875 -14.2875 -10000.0</lower_left><upper_right>14.2875 14.2875 10000.0</upper_right></mesh></settings>

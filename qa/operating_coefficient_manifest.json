@@ -1,0 +1,61 @@
+{
+  "reference": {
+    "Tf_K": 900.0,
+    "Tc_K": 561.15,
+    "Tm_K": 343.15,
+    "Pc_MPa": 10.1,
+    "Pm_MPa": 0.101325
+  },
+  "illustrative_reference_authorized_by_user": true,
+  "iapws_version": "1.5.5",
+  "EOS": "IAPWS R16-17(2018); pure D2O density surrogate at fixed benchmark isotope ratios",
+  "EOS_source": "https://iapws.org/technical-guidance/release/Heavy",
+  "EOS_verification": [
+    {
+      "T_K": 300.0,
+      "density_mol_dm3": 55.126,
+      "reference_P_MPa": 0.0529123711,
+      "computed_P_MPa": 0.05291237105640177
+    },
+    {
+      "T_K": 500.0,
+      "density_mol_dm3": 46.26,
+      "reference_P_MPa": 8.35329492,
+      "computed_P_MPa": 8.353294922322837
+    },
+    {
+      "T_K": 500.0,
+      "density_mol_dm3": 0.05,
+      "reference_P_MPa": 0.206052588,
+      "computed_P_MPa": 0.20605258771802848
+    },
+    {
+      "T_K": 800.0,
+      "density_mol_dm3": 0.25,
+      "reference_P_MPa": 1.64466177,
+      "computed_P_MPa": 1.6446617665984784
+    }
+  ],
+  "base_composition_mass_density_kg_m3": 1077.616309366693,
+  "structural_temperatures": "Held at Tc0 for sheath, pressure tube and helium; Tm0 for calandria",
+  "structural_densities_and_geometry": "Fixed; no thermal expansion",
+  "inventories": "Existing shared benchmark histories; not independently validated operating depletion",
+  "scattering_correction": "Existing uncorrected resonance-scattering treatment retained",
+  "cases": 63,
+  "particles": 40000,
+  "batches": 200,
+  "inactive": 50,
+  "active_histories_per_case": 6000000,
+  "seeds": "Distinct odd seeds for every state",
+  "pressure_column_interpretation": "Reference pressures define base densities. Fixed-density temperature perturbations do not assert constant pressure; only density_mode=pressure follows the EOS constant-pressure path.",
+  "dragon_solver_controls": {
+    "outer_max_iterations": 200,
+    "outer_eigenvalue_tolerance": 1e-06,
+    "outer_flux_tolerance": 5e-05,
+    "thermal_max_iterations": 100,
+    "thermal_tolerance": 1e-05,
+    "acceptance": "Explicit external convergence required; no CONVERGENCE NOT REACHED messages",
+    "basis": "Controls checked against three-state fresh solver pilot, with separate tighter-control sensitivity pilot"
+  },
+  "provisional_dragon_listings_excluded": "OP_LOCAL_J2 and OP_CONV_PILOT; infeasible tighter flux tolerances"
+}

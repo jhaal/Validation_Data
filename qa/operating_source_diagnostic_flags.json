@@ -1,0 +1,5 @@
+{
+  "cases": 63,
+  "three_sigma_flags": [],
+  "interpretation": "Flags require review; these are pointwise diagnostics with multiple comparisons, not automatic proof of nonconvergence"
+}

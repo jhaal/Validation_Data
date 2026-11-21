@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<geometry>
+  <cell id="5131" name="pin01_fuel_1" material="271" region="-5220" universe="28"/>
+  <cell id="5132" name="pin01_fuel_2" material="272" region="5220 -5221" universe="28"/>
+  <cell id="5133" name="pin01_fuel_3" material="273" region="5221 -5222" universe="28"/>
+  <cell id="5134" name="pin01_fuel_4" material="274" region="5222 -5223" universe="28"/>
+  <cell id="5135" name="pin01_sheath" material="279" region="5223 -5224" universe="28"/>
+  <cell id="5136" name="pin02_fuel_1" material="271" region="-5225" universe="28"/>
+  <cell id="5137" name="pin02_fuel_2" material="272" region="5225 -5226" universe="28"/>
+  <cell id="5138" name="pin02_fuel_3" material="273" region="5226 -5227" universe="28"/>
+  <cell id="5139" name="pin02_fuel_4" material="274" region="5227 -5228" universe="28"/>
+  <cell id="5140" name="pin02_sheath" material="279" region="5228 -5229" universe="28"/>
+  <cell id="5141" name="pin03_fuel_1" material="271" region="-5230" universe="28"/>
+  <cell id="5142" name="pin03_fuel_2" material="272" region="5230 -5231" universe="28"/>
+  <cell id="5143" name="pin03_fuel_3" material="273" region="5231 -5232" universe="28"/>
+  <cell id="5144" name="pin03_fuel_4" material="274" region="5232 -5233" universe="28"/>
+  <cell id="5145" name="pin03_sheath" material="279" region="5233 -5234" universe="28"/>
+  <cell id="5146" name="pin04_fuel_1" material="271" region="-5235" universe="28"/>
+  <cell id="5147" name="pin04_fuel_2" material="272" region="5235 -5236" universe="28"/>
+  <cell id="5148" name="pin04_fuel_3" material="273" region="5236 -5237" universe="28"/>
+  <cell id="5149" name="pin04_fuel_4" material="274" region="5237 -5238" universe="28"/>
+  <cell id="5150" name="pin04_sheath" material="279" region="5238 -5239" universe="28"/>
+  <cell id="5151" name="pin05_fuel_1" material="271" region="-5240" universe="28"/>
+  <cell id="5152" name="pin05_fuel_2" material="272" region="5240 -5241" universe="28"/>
+  <cell id="5153" name="pin05_fuel_3" material="273" region="5241 -5242" universe="28"/>
+  <cell id="5154" name="pin05_fuel_4" material="274" region="5242 -5243" universe="28"/>
+  <cell id="5155" name="pin05_sheath" material="279" region="5243 -5244" universe="28"/>
+  <cell id="5156" name="pin06_fuel_1" material="271" region="-5245" universe="28"/>
+  <cell id="5157" name="pin06_fuel_2" material="272" region="5245 -5246" universe="28"/>
+  <cell id="5158" name="pin06_fuel_3" material="273" region="5246 -5247" universe="28"/>
+  <cell id="5159" name="pin06_fuel_4" material="274" region="5247 -5248" universe="28"/>
+  <cell id="5160" name="pin06_sheath" material="279" region="5248 -5249" universe="28"/>
+  <cell id="5161" name="pin07_fuel_1" material="271" region="-5250" universe="28"/>
+  <cell id="5162" name="pin07_fuel_2" material="272" region="5250 -5251" universe="28"/>
+  <cell id="5163" name="pin07_fuel_3" material="273" region="5251 -5252" universe="28"/>
+  <cell id="5164" name="pin07_fuel_4" material="274" region="5252 -5253" universe="28"/>
+  <cell id="5165" name="pin07_sheath" material="279" region="5253 -5254" universe="28"/>
+  <cell id="5166" name="pin08_fuel_1" material="271" region="-5255" universe="28"/>
+  <cell id="5167" name="pin08_fuel_2" material="272" region="5255 -5256" universe="28"/>
+  <cell id="5168" name="pin08_fuel_3" material="273" region="5256 -5257" universe="28"/>
+  <cell id="5169" name="pin08_fuel_4" material="274" region="5257 -5258" universe="28"/>
+  <cell id="5170" name="pin08_sheath" material="279" region="5258 -5259" universe="28"/>
+  <cell id="5171" name="pin09_fuel_1" material="271" region="-5260" universe="28"/>
+  <cell id="5172" name="pin09_fuel_2" material="272" region="5260 -5261" universe="28"/>
+  <cell id="5173" name="pin09_fuel_3" material="273" region="5261 -5262" universe="28"/>
+  <cell id="5174" name="pin09_fuel_4" material="274" region="5262 -5263" universe="28"/>
+  <cell id="5175" name="pin09_sheath" material="279" region="5263 -5264" universe="28"/>
+  <cell id="5176" name="pin10_fuel_1" material="271" region="-5265" universe="28"/>
+  <cell id="5177" name="pin10_fuel_2" material="272" region="5265 -5266" universe="28"/>
+  <cell id="5178" name="pin10_fuel_3" material="273" region="5266 -5267" universe="28"/>
+  <cell id="5179" name="pin10_fuel_4" material="274" region="5267 -5268" universe="28"/>
+  <cell id="5180" name="pin10_sheath" material="279" region="5268 -5269" universe="28"/>
+  <cell id="5181" name="pin11_fuel_1" material="271" region="-5270" universe="28"/>
+  <cell id="5182" name="pin11_fuel_2" material="272" region="5270 -5271" universe="28"/>
+  <cell id="5183" name="pin11_fuel_3" material="273" region="5271 -5272" universe="28"/>
+  <cell id="5184" name="pin11_fuel_4" material="274" region="5272 -5273" universe="28"/>
+  <cell id="5185" name="pin11_sheath" material="279" region="5273 -5274" universe="28"/>
+  <cell id="5186" name="pin12_fuel_1" material="271" region="-5275" universe="28"/>
+  <cell id="5187" name="pin12_fuel_2" material="272" region="5275 -5276" universe="28"/>
+  <cell id="5188" name="pin12_fuel_3" material="273" region="5276 -5277" universe="28"/>
+  <cell id="5189" name="pin12_fuel_4" material="274" region="5277 -5278" universe="28"/>
+  <cell id="5190" name="pin12_sheath" material="279" region="5278 -5279" universe="28"/>
+  <cell id="5191" name="pin13_fuel_1" material="271" region="-5280" universe="28"/>
+  <cell id="5192" name="pin13_fuel_2" material="272" region="5280 -5281" universe="28"/>
+  <cell id="5193" name="pin13_fuel_3" material="273" region="5281 -5282" universe="28"/>
+  <cell id="5194" name="pin13_fuel_4" material="274" region="5282 -5283" universe="28"/>
+  <cell id="5195" name="pin13_sheath" material="279" region="5283 -5284" universe="28"/>
+  <cell id="5196" name="pin14_fuel_1" material="271" region="-5285" universe="28"/>
+  <cell id="5197" name="pin14_fuel_2" material="272" region="5285 -5286" universe="28"/>
+  <cell id="5198" name="pin14_fuel_3" material="273" region="5286 -5287" universe="28"/>
+  <cell id="5199" name="pin14_fuel_4" material="274" region="5287 -5288" universe="28"/>
+  <cell id="5200" name="pin14_sheath" material="279" region="5288 -5289" universe="28"/>
+  <cell id="5201" name="pin15_fuel_1" material="271" region="-5290" universe="28"/>
+  <cell id="5202" name="pin15_fuel_2" material="272" region="5290 -5291" universe="28"/>
+  <cell id="5203" name="pin15_fuel_3" material="273" region="5291 -5292" universe="28"/>
+  <cell id="5204" name="pin15_fuel_4" material="274" region="5292 -5293" universe="28"/>
+  <cell id="5205" name="pin15_sheath" material="279" region="5293 -5294" universe="28"/>
+  <cell id="5206" name="pin16_fuel_1" material="271" region="-5295" universe="28"/>
+  <cell id="5207" name="pin16_fuel_2" material="272" region="5295 -5296" universe="28"/>
+  <cell id="5208" name="pin16_fuel_3" material="273" region="5296 -5297" universe="28"/>
+  <cell id="5209" name="pin16_fuel_4" material="274" region="5297 -5298" universe="28"/>
+  <cell id="5210" name="pin16_sheath" material="279" region="5298 -5299" universe="28"/>
+  <cell id="5211" name="pin17_fuel_1" material="271" region="-5300" universe="28"/>
+  <cell id="5212" name="pin17_fuel_2" material="272" region="5300 -5301" universe="28"/>
+  <cell id="5213" name="pin17_fuel_3" material="273" region="5301 -5302" universe="28"/>
+  <cell id="5214" name="pin17_fuel_4" material="274" region="5302 -5303" universe="28"/>
+  <cell id="5215" name="pin17_sheath" material="279" region="5303 -5304" universe="28"/>
+  <cell id="5216" name="pin18_fuel_1" material="271" region="-5305" universe="28"/>
+  <cell id="5217" name="pin18_fuel_2" material="272" region="5305 -5306" universe="28"/>
+  <cell id="5218" name="pin18_fuel_3" material="273" region="5306 -5307" universe="28"/>
+  <cell id="5219" name="pin18_fuel_4" material="274" region="5307 -5308" universe="28"/>
+  <cell id="5220" name="pin18_sheath" material="279" region="5308 -5309" universe="28"/>
+  <cell id="5221" name="pin19_fuel_1" material="271" region="-5310" universe="28"/>
+  <cell id="5222" name="pin19_fuel_2" material="272" region="5310 -5311" universe="28"/>
+  <cell id="5223" name="pin19_fuel_3" material="273" region="5311 -5312" universe="28"/>
+  <cell id="5224" name="pin19_fuel_4" material="274" region="5312 -5313" universe="28"/>
+  <cell id="5225" name="pin19_sheath" material="279" region="5313 -5314" universe="28"/>
+  <cell id="5226" name="pin20_fuel_1" material="271" region="-5315" universe="28"/>
+  <cell id="5227" name="pin20_fuel_2" material="272" region="5315 -5316" universe="28"/>
+  <cell id="5228" name="pin20_fuel_3" material="273" region="5316 -5317" universe="28"/>
+  <cell id="5229" name="pin20_fuel_4" material="274" region="5317 -5318" universe="28"/>
+  <cell id="5230" name="pin20_sheath" material="279" region="5318 -5319" universe="28"/>
+  <cell id="5231" name="pin21_fuel_1" material="271" region="-5320" universe="28"/>
+  <cell id="5232" name="pin21_fuel_2" material="272" region="5320 -5321" universe="28"/>
+  <cell id="5233" name="pin21_fuel_3" material="273" region="5321 -5322" universe="28"/>
+  <cell id="5234" name="pin21_fuel_4" material="274" region="5322 -5323" universe="28"/>
+  <cell id="5235" name="pin21_sheath" material="279" region="5323 -5324" universe="28"/>
+  <cell id="5236" name="pin22_fuel_1" material="271" region="-5325" universe="28"/>
+  <cell id="5237" name="pin22_fuel_2" material="272" region="5325 -5326" universe="28"/>
+  <cell id="5238" name="pin22_fuel_3" material="273" region="5326 -5327" universe="28"/>
+  <cell id="5239" name="pin22_fuel_4" material="274" region="5327 -5328" universe="28"/>
+  <cell id="5240" name="pin22_sheath" material="279" region="5328 -5329" universe="28"/>
+  <cell id="5241" name="pin23_fuel_1" material="271" region="-5330" universe="28"/>
+  <cell id="5242" name="pin23_fuel_2" material="272" region="5330 -5331" universe="28"/>
+  <cell id="5243" name="pin23_fuel_3" material="273" region="5331 -5332" universe="28"/>
+  <cell id="5244" name="pin23_fuel_4" material="274" region="5332 -5333" universe="28"/>
+  <cell id="5245" name="pin23_sheath" material="279" region="5333 -5334" universe="28"/>
+  <cell id="5246" name="pin24_fuel_1" material="271" region="-5335" universe="28"/>
+  <cell id="5247" name="pin24_fuel_2" material="272" region="5335 -5336" universe="28"/>
+  <cell id="5248" name="pin24_fuel_3" material="273" region="5336 -5337" universe="28"/>
+  <cell id="5249" name="pin24_fuel_4" material="274" region="5337 -5338" universe="28"/>
+  <cell id="5250" name="pin24_sheath" material="279" region="5338 -5339" universe="28"/>
+  <cell id="5251" name="pin25_fuel_1" material="271" region="-5340" universe="28"/>
+  <cell id="5252" name="pin25_fuel_2" material="272" region="5340 -5341" universe="28"/>
+  <cell id="5253" name="pin25_fuel_3" material="273" region="5341 -5342" universe="28"/>
+  <cell id="5254" name="pin25_fuel_4" material="274" region="5342 -5343" universe="28"/>
+  <cell id="5255" name="pin25_sheath" material="279" region="5343 -5344" universe="28"/>
+  <cell id="5256" name="pin26_fuel_1" material="271" region="-5345" universe="28"/>
+  <cell id="5257" name="pin26_fuel_2" material="272" region="5345 -5346" universe="28"/>
+  <cell id="5258" name="pin26_fuel_3" material="273" region="5346 -5347" universe="28"/>
+  <cell id="5259" name="pin26_fuel_4" material="274" region="5347 -5348" universe="28"/>
+  <cell id="5260" name="pin26_sheath" material="279" region="5348 -5349" universe="28"/>
+  <cell id="5261" name="pin27_fuel_1" material="271" region="-5350" universe="28"/>
+  <cell id="5262" name="pin27_fuel_2" material="272" region="5350 -5351" universe="28"/>
+  <cell id="5263" name="pin27_fuel_3" material="273" region="5351 -5352" universe="28"/>
+  <cell id="5264" name="pin27_fuel_4" material="274" region="5352 -5353" universe="28"/>
+  <cell id="5265" name="pin27_sheath" material="279" region="5353 -5354" universe="28"/>
+  <cell id="5266" name="pin28_fuel_1" material="271" region="-5355" universe="28"/>
+  <cell id="5267" name="pin28_fuel_2" material="272" region="5355 -5356" universe="28"/>
+  <cell id="5268" name="pin28_fuel_3" material="273" region="5356 -5357" universe="28"/>
+  <cell id="5269" name="pin28_fuel_4" material="274" region="5357 -5358" universe="28"/>
+  <cell id="5270" name="pin28_sheath" material="279" region="5358 -5359" universe="28"/>
+  <cell id="5271" name="pin29_fuel_1" material="271" region="-5360" universe="28"/>
+  <cell id="5272" name="pin29_fuel_2" material="272" region="5360 -5361" universe="28"/>
+  <cell id="5273" name="pin29_fuel_3" material="273" region="5361 -5362" universe="28"/>
+  <cell id="5274" name="pin29_fuel_4" material="274" region="5362 -5363" universe="28"/>
+  <cell id="5275" name="pin29_sheath" material="279" region="5363 -5364" universe="28"/>
+  <cell id="5276" name="pin30_fuel_1" material="271" region="-5365" universe="28"/>
+  <cell id="5277" name="pin30_fuel_2" material="272" region="5365 -5366" universe="28"/>
+  <cell id="5278" name="pin30_fuel_3" material="273" region="5366 -5367" universe="28"/>
+  <cell id="5279" name="pin30_fuel_4" material="274" region="5367 -5368" universe="28"/>
+  <cell id="5280" name="pin30_sheath" material="279" region="5368 -5369" universe="28"/>
+  <cell id="5281" name="pin31_fuel_1" material="271" region="-5370" universe="28"/>
+  <cell id="5282" name="pin31_fuel_2" material="272" region="5370 -5371" universe="28"/>
+  <cell id="5283" name="pin31_fuel_3" material="273" region="5371 -5372" universe="28"/>
+  <cell id="5284" name="pin31_fuel_4" material="274" region="5372 -5373" universe="28"/>
+  <cell id="5285" name="pin31_sheath" material="279" region="5373 -5374" universe="28"/>
+  <cell id="5286" name="pin32_fuel_1" material="271" region="-5375" universe="28"/>
+  <cell id="5287" name="pin32_fuel_2" material="272" region="5375 -5376" universe="28"/>
+  <cell id="5288" name="pin32_fuel_3" material="273" region="5376 -5377" universe="28"/>
+  <cell id="5289" name="pin32_fuel_4" material="274" region="5377 -5378" universe="28"/>
+  <cell id="5290" name="pin32_sheath" material="279" region="5378 -5379" universe="28"/>
+  <cell id="5291" name="pin33_fuel_1" material="271" region="-5380" universe="28"/>
+  <cell id="5292" name="pin33_fuel_2" material="272" region="5380 -5381" universe="28"/>
+  <cell id="5293" name="pin33_fuel_3" material="273" region="5381 -5382" universe="28"/>
+  <cell id="5294" name="pin33_fuel_4" material="274" region="5382 -5383" universe="28"/>
+  <cell id="5295" name="pin33_sheath" material="279" region="5383 -5384" universe="28"/>
+  <cell id="5296" name="pin34_fuel_1" material="271" region="-5385" universe="28"/>
+  <cell id="5297" name="pin34_fuel_2" material="272" region="5385 -5386" universe="28"/>
+  <cell id="5298" name="pin34_fuel_3" material="273" region="5386 -5387" universe="28"/>
+  <cell id="5299" name="pin34_fuel_4" material="274" region="5387 -5388" universe="28"/>
+  <cell id="5300" name="pin34_sheath" material="279" region="5388 -5389" universe="28"/>
+  <cell id="5301" name="pin35_fuel_1" material="271" region="-5390" universe="28"/>
+  <cell id="5302" name="pin35_fuel_2" material="272" region="5390 -5391" universe="28"/>
+  <cell id="5303" name="pin35_fuel_3" material="273" region="5391 -5392" universe="28"/>
+  <cell id="5304" name="pin35_fuel_4" material="274" region="5392 -5393" universe="28"/>
+  <cell id="5305" name="pin35_sheath" material="279" region="5393 -5394" universe="28"/>
+  <cell id="5306" name="pin36_fuel_1" material="271" region="-5395" universe="28"/>
+  <cell id="5307" name="pin36_fuel_2" material="272" region="5395 -5396" universe="28"/>
+  <cell id="5308" name="pin36_fuel_3" material="273" region="5396 -5397" universe="28"/>
+  <cell id="5309" name="pin36_fuel_4" material="274" region="5397 -5398" universe="28"/>
+  <cell id="5310" name="pin36_sheath" material="279" region="5398 -5399" universe="28"/>
+  <cell id="5311" name="pin37_fuel_1" material="271" region="-5400" universe="28"/>
+  <cell id="5312" name="pin37_fuel_2" material="272" region="5400 -5401" universe="28"/>
+  <cell id="5313" name="pin37_fuel_3" material="273" region="5401 -5402" universe="28"/>
+  <cell id="5314" name="pin37_fuel_4" material="274" region="5402 -5403" universe="28"/>
+  <cell id="5315" name="pin37_sheath" material="279" region="5403 -5404" universe="28"/>
+  <cell id="5316" name="coolant_D2O_cluster_region" material="275" region="-5216 5224 5229 5234 5239 5244 5249 5254 5259 5264 5269 5274 5279 5284 5289 5294 5299 5304 5309 5314 5319 5324 5329 5334 5339 5344 5349 5354 5359 5364 5369 5374 5379 5384 5389 5394 5399 5404" universe="28"/>
+  <cell id="5317" name="pressure_tube" material="277" region="5216 -5217" universe="28"/>
+  <cell id="5318" name="helium_gap" material="280" region="5217 -5218" universe="28"/>
+  <cell id="5319" name="calandria_tube" material="278" region="5218 -5219" universe="28"/>
+  <cell id="5320" name="moderator_D2O_outer_square" material="276" region="5212 -5213 5214 -5215 5219" universe="28"/>
+  <surface id="5212" type="x-plane" boundary="reflective" coeffs="-14.2875"/>
+  <surface id="5213" type="x-plane" boundary="reflective" coeffs="14.2875"/>
+  <surface id="5214" type="y-plane" boundary="reflective" coeffs="-14.2875"/>
+  <surface id="5215" type="y-plane" boundary="reflective" coeffs="14.2875"/>
+  <surface id="5216" type="z-cylinder" coeffs="0.0 0.0 5.1689"/>
+  <surface id="5217" type="z-cylinder" coeffs="0.0 0.0 5.6032"/>
+  <surface id="5218" type="z-cylinder" coeffs="0.0 0.0 6.4478"/>
+  <surface id="5219" type="z-cylinder" coeffs="0.0 0.0 6.5875"/>
+  <surface id="5220" type="z-cylinder" coeffs="0.0 0.0 0.3061"/>
+  <surface id="5221" type="z-cylinder" coeffs="0.0 0.0 0.4898"/>
+  <surface id="5222" type="z-cylinder" coeffs="0.0 0.0 0.5816"/>
+  <surface id="5223" type="z-cylinder" coeffs="0.0 0.0 0.6122"/>
+  <surface id="5224" type="z-cylinder" coeffs="0.0 0.0 0.654"/>
+  <surface id="5225" type="z-cylinder" coeffs="1.488 0.0 0.3061"/>
+  <surface id="5226" type="z-cylinder" coeffs="1.488 0.0 0.4898"/>
+  <surface id="5227" type="z-cylinder" coeffs="1.488 0.0 0.5816"/>
+  <surface id="5228" type="z-cylinder" coeffs="1.488 0.0 0.6122"/>
+  <surface id="5229" type="z-cylinder" coeffs="1.488 0.0 0.654"/>
+  <surface id="5230" type="z-cylinder" coeffs="0.7440000000000001 1.2886458008312447 0.3061"/>
+  <surface id="5231" type="z-cylinder" coeffs="0.7440000000000001 1.2886458008312447 0.4898"/>
+  <surface id="5232" type="z-cylinder" coeffs="0.7440000000000001 1.2886458008312447 0.5816"/>
+  <surface id="5233" type="z-cylinder" coeffs="0.7440000000000001 1.2886458008312447 0.6122"/>
+  <surface id="5234" type="z-cylinder" coeffs="0.7440000000000001 1.2886458008312447 0.654"/>
+  <surface id="5235" type="z-cylinder" coeffs="-0.7439999999999998 1.2886458008312447 0.3061"/>
+  <surface id="5236" type="z-cylinder" coeffs="-0.7439999999999998 1.2886458008312447 0.4898"/>
+  <surface id="5237" type="z-cylinder" coeffs="-0.7439999999999998 1.2886458008312447 0.5816"/>
+  <surface id="5238" type="z-cylinder" coeffs="-0.7439999999999998 1.2886458008312447 0.6122"/>
+  <surface id="5239" type="z-cylinder" coeffs="-0.7439999999999998 1.2886458008312447 0.654"/>
+  <surface id="5240" type="z-cylinder" coeffs="-1.488 1.8222744371312615e-16 0.3061"/>
+  <surface id="5241" type="z-cylinder" coeffs="-1.488 1.8222744371312615e-16 0.4898"/>
+  <surface id="5242" type="z-cylinder" coeffs="-1.488 1.8222744371312615e-16 0.5816"/>
+  <surface id="5243" type="z-cylinder" coeffs="-1.488 1.8222744371312615e-16 0.6122"/>
+  <surface id="5244" type="z-cylinder" coeffs="-1.488 1.8222744371312615e-16 0.654"/>
+  <surface id="5245" type="z-cylinder" coeffs="-0.7440000000000007 -1.2886458008312442 0.3061"/>
+  <surface id="5246" type="z-cylinder" coeffs="-0.7440000000000007 -1.2886458008312442 0.4898"/>
+  <surface id="5247" type="z-cylinder" coeffs="-0.7440000000000007 -1.2886458008312442 0.5816"/>
+  <surface id="5248" type="z-cylinder" coeffs="-0.7440000000000007 -1.2886458008312442 0.6122"/>
+  <surface id="5249" type="z-cylinder" coeffs="-0.7440000000000007 -1.2886458008312442 0.654"/>
+  <surface id="5250" type="z-cylinder" coeffs="0.7440000000000001 -1.2886458008312447 0.3061"/>
+  <surface id="5251" type="z-cylinder" coeffs="0.7440000000000001 -1.2886458008312447 0.4898"/>
+  <surface id="5252" type="z-cylinder" coeffs="0.7440000000000001 -1.2886458008312447 0.5816"/>
+  <surface id="5253" type="z-cylinder" coeffs="0.7440000000000001 -1.2886458008312447 0.6122"/>
+  <surface id="5254" type="z-cylinder" coeffs="0.7440000000000001 -1.2886458008312447 0.654"/>
+  <surface id="5255" type="z-cylinder" coeffs="2.875 0.0 0.3061"/>
+  <surface id="5256" type="z-cylinder" coeffs="2.875 0.0 0.4898"/>
+  <surface id="5257" type="z-cylinder" coeffs="2.875 0.0 0.5816"/>
+  <surface id="5258" type="z-cylinder" coeffs="2.875 0.0 0.6122"/>
+  <surface id="5259" type="z-cylinder" coeffs="2.875 0.0 0.654"/>
+  <surface id="5260" type="z-cylinder" coeffs="2.4898230358802613 1.4374999999999998 0.3061"/>
+  <surface id="5261" type="z-cylinder" coeffs="2.4898230358802613 1.4374999999999998 0.4898"/>
+  <surface id="5262" type="z-cylinder" coeffs="2.4898230358802613 1.4374999999999998 0.5816"/>
+  <surface id="5263" type="z-cylinder" coeffs="2.4898230358802613 1.4374999999999998 0.6122"/>
+  <surface id="5264" type="z-cylinder" coeffs="2.4898230358802613 1.4374999999999998 0.654"/>
+  <surface id="5265" type="z-cylinder" coeffs="1.4375000000000002 2.489823035880261 0.3061"/>
+  <surface id="5266" type="z-cylinder" coeffs="1.4375000000000002 2.489823035880261 0.4898"/>
+  <surface id="5267" type="z-cylinder" coeffs="1.4375000000000002 2.489823035880261 0.5816"/>
+  <surface id="5268" type="z-cylinder" coeffs="1.4375000000000002 2.489823035880261 0.6122"/>
+  <surface id="5269" type="z-cylinder" coeffs="1.4375000000000002 2.489823035880261 0.654"/>
+  <surface id="5270" type="z-cylinder" coeffs="1.7604297737743202e-16 2.875 0.3061"/>
+  <surface id="5271" type="z-cylinder" coeffs="1.7604297737743202e-16 2.875 0.4898"/>
+  <surface id="5272" type="z-cylinder" coeffs="1.7604297737743202e-16 2.875 0.5816"/>
+  <surface id="5273" type="z-cylinder" coeffs="1.7604297737743202e-16 2.875 0.6122"/>
+  <surface id="5274" type="z-cylinder" coeffs="1.7604297737743202e-16 2.875 0.654"/>
+  <surface id="5275" type="z-cylinder" coeffs="-1.4374999999999996 2.4898230358802613 0.3061"/>
+  <surface id="5276" type="z-cylinder" coeffs="-1.4374999999999996 2.4898230358802613 0.4898"/>
+  <surface id="5277" type="z-cylinder" coeffs="-1.4374999999999996 2.4898230358802613 0.5816"/>
+  <surface id="5278" type="z-cylinder" coeffs="-1.4374999999999996 2.4898230358802613 0.6122"/>
+  <surface id="5279" type="z-cylinder" coeffs="-1.4374999999999996 2.4898230358802613 0.654"/>
+  <surface id="5280" type="z-cylinder" coeffs="-2.4898230358802613 1.4374999999999998 0.3061"/>
+  <surface id="5281" type="z-cylinder" coeffs="-2.4898230358802613 1.4374999999999998 0.4898"/>
+  <surface id="5282" type="z-cylinder" coeffs="-2.4898230358802613 1.4374999999999998 0.5816"/>
+  <surface id="5283" type="z-cylinder" coeffs="-2.4898230358802613 1.4374999999999998 0.6122"/>
+  <surface id="5284" type="z-cylinder" coeffs="-2.4898230358802613 1.4374999999999998 0.654"/>
+  <surface id="5285" type="z-cylinder" coeffs="-2.875 3.5208595475486404e-16 0.3061"/>
+  <surface id="5286" type="z-cylinder" coeffs="-2.875 3.5208595475486404e-16 0.4898"/>
+  <surface id="5287" type="z-cylinder" coeffs="-2.875 3.5208595475486404e-16 0.5816"/>
+  <surface id="5288" type="z-cylinder" coeffs="-2.875 3.5208595475486404e-16 0.6122"/>
+  <surface id="5289" type="z-cylinder" coeffs="-2.875 3.5208595475486404e-16 0.654"/>
+  <surface id="5290" type="z-cylinder" coeffs="-2.4898230358802618 -1.4374999999999993 0.3061"/>
+  <surface id="5291" type="z-cylinder" coeffs="-2.4898230358802618 -1.4374999999999993 0.4898"/>
+  <surface id="5292" type="z-cylinder" coeffs="-2.4898230358802618 -1.4374999999999993 0.5816"/>
+  <surface id="5293" type="z-cylinder" coeffs="-2.4898230358802618 -1.4374999999999993 0.6122"/>
+  <surface id="5294" type="z-cylinder" coeffs="-2.4898230358802618 -1.4374999999999993 0.654"/>
+  <surface id="5295" type="z-cylinder" coeffs="-1.4375000000000013 -2.4898230358802604 0.3061"/>
+  <surface id="5296" type="z-cylinder" coeffs="-1.4375000000000013 -2.4898230358802604 0.4898"/>
+  <surface id="5297" type="z-cylinder" coeffs="-1.4375000000000013 -2.4898230358802604 0.5816"/>
+  <surface id="5298" type="z-cylinder" coeffs="-1.4375000000000013 -2.4898230358802604 0.6122"/>
+  <surface id="5299" type="z-cylinder" coeffs="-1.4375000000000013 -2.4898230358802604 0.654"/>
+  <surface id="5300" type="z-cylinder" coeffs="-5.28128932132296e-16 -2.875 0.3061"/>
+  <surface id="5301" type="z-cylinder" coeffs="-5.28128932132296e-16 -2.875 0.4898"/>
+  <surface id="5302" type="z-cylinder" coeffs="-5.28128932132296e-16 -2.875 0.5816"/>
+  <surface id="5303" type="z-cylinder" coeffs="-5.28128932132296e-16 -2.875 0.6122"/>
+  <surface id="5304" type="z-cylinder" coeffs="-5.28128932132296e-16 -2.875 0.654"/>
+  <surface id="5305" type="z-cylinder" coeffs="1.4375000000000002 -2.489823035880261 0.3061"/>
+  <surface id="5306" type="z-cylinder" coeffs="1.4375000000000002 -2.489823035880261 0.4898"/>
+  <surface id="5307" type="z-cylinder" coeffs="1.4375000000000002 -2.489823035880261 0.5816"/>
+  <surface id="5308" type="z-cylinder" coeffs="1.4375000000000002 -2.489823035880261 0.6122"/>
+  <surface id="5309" type="z-cylinder" coeffs="1.4375000000000002 -2.489823035880261 0.654"/>
+  <surface id="5310" type="z-cylinder" coeffs="2.4898230358802604 -1.4375000000000013 0.3061"/>
+  <surface id="5311" type="z-cylinder" coeffs="2.4898230358802604 -1.4375000000000013 0.4898"/>
+  <surface id="5312" type="z-cylinder" coeffs="2.4898230358802604 -1.4375000000000013 0.5816"/>
+  <surface id="5313" type="z-cylinder" coeffs="2.4898230358802604 -1.4375000000000013 0.6122"/>
+  <surface id="5314" type="z-cylinder" coeffs="2.4898230358802604 -1.4375000000000013 0.654"/>
+  <surface id="5315" type="z-cylinder" coeffs="4.33 0.0 0.3061"/>
+  <surface id="5316" type="z-cylinder" coeffs="4.33 0.0 0.4898"/>
+  <surface id="5317" type="z-cylinder" coeffs="4.33 0.0 0.5816"/>
+  <surface id="5318" type="z-cylinder" coeffs="4.33 0.0 0.6122"/>
+  <surface id="5319" type="z-cylinder" coeffs="4.33 0.0 0.654"/>
+  <surface id="5320" type="z-cylinder" coeffs="4.068869048002983 1.4809472206001455 0.3061"/>
+  <surface id="5321" type="z-cylinder" coeffs="4.068869048002983 1.4809472206001455 0.4898"/>
+  <surface id="5322" type="z-cylinder" coeffs="4.068869048002983 1.4809472206001455 0.5816"/>
+  <surface id="5323" type="z-cylinder" coeffs="4.068869048002983 1.4809472206001455 0.6122"/>
+  <surface id="5324" type="z-cylinder" coeffs="4.068869048002983 1.4809472206001455 0.654"/>
+  <surface id="5325" type="z-cylinder" coeffs="3.3169724387051747 2.783270349942715 0.3061"/>
+  <surface id="5326" type="z-cylinder" coeffs="3.3169724387051747 2.783270349942715 0.4898"/>
+  <surface id="5327" type="z-cylinder" coeffs="3.3169724387051747 2.783270349942715 0.5816"/>
+  <surface id="5328" type="z-cylinder" coeffs="3.3169724387051747 2.783270349942715 0.6122"/>
+  <surface id="5329" type="z-cylinder" coeffs="3.3169724387051747 2.783270349942715 0.654"/>
+  <surface id="5330" type="z-cylinder" coeffs="2.1650000000000005 3.749889998386619 0.3061"/>
+  <surface id="5331" type="z-cylinder" coeffs="2.1650000000000005 3.749889998386619 0.4898"/>
+  <surface id="5332" type="z-cylinder" coeffs="2.1650000000000005 3.749889998386619 0.5816"/>
+  <surface id="5333" type="z-cylinder" coeffs="2.1650000000000005 3.749889998386619 0.6122"/>
+  <surface id="5334" type="z-cylinder" coeffs="2.1650000000000005 3.749889998386619 0.654"/>
+  <surface id="5335" type="z-cylinder" coeffs="0.7518966092978087 4.26421757054286 0.3061"/>
+  <surface id="5336" type="z-cylinder" coeffs="0.7518966092978087 4.26421757054286 0.4898"/>
+  <surface id="5337" type="z-cylinder" coeffs="0.7518966092978087 4.26421757054286 0.5816"/>
+  <surface id="5338" type="z-cylinder" coeffs="0.7518966092978087 4.26421757054286 0.6122"/>
+  <surface id="5339" type="z-cylinder" coeffs="0.7518966092978087 4.26421757054286 0.654"/>
+  <surface id="5340" type="z-cylinder" coeffs="-0.7518966092978082 4.26421757054286 0.3061"/>
+  <surface id="5341" type="z-cylinder" coeffs="-0.7518966092978082 4.26421757054286 0.4898"/>
+  <surface id="5342" type="z-cylinder" coeffs="-0.7518966092978082 4.26421757054286 0.5816"/>
+  <surface id="5343" type="z-cylinder" coeffs="-0.7518966092978082 4.26421757054286 0.6122"/>
+  <surface id="5344" type="z-cylinder" coeffs="-0.7518966092978082 4.26421757054286 0.654"/>
+  <surface id="5345" type="z-cylinder" coeffs="-2.164999999999999 3.7498899983866196 0.3061"/>
+  <surface id="5346" type="z-cylinder" coeffs="-2.164999999999999 3.7498899983866196 0.4898"/>
+  <surface id="5347" type="z-cylinder" coeffs="-2.164999999999999 3.7498899983866196 0.5816"/>
+  <surface id="5348" type="z-cylinder" coeffs="-2.164999999999999 3.7498899983866196 0.6122"/>
+  <surface id="5349" type="z-cylinder" coeffs="-2.164999999999999 3.7498899983866196 0.654"/>
+  <surface id="5350" type="z-cylinder" coeffs="-3.316972438705174 2.783270349942716 0.3061"/>
+  <surface id="5351" type="z-cylinder" coeffs="-3.316972438705174 2.783270349942716 0.4898"/>
+  <surface id="5352" type="z-cylinder" coeffs="-3.316972438705174 2.783270349942716 0.5816"/>
+  <surface id="5353" type="z-cylinder" coeffs="-3.316972438705174 2.783270349942716 0.6122"/>
+  <surface id="5354" type="z-cylinder" coeffs="-3.316972438705174 2.783270349942716 0.654"/>
+  <surface id="5355" type="z-cylinder" coeffs="-4.068869048002983 1.4809472206001462 0.3061"/>
+  <surface id="5356" type="z-cylinder" coeffs="-4.068869048002983 1.4809472206001462 0.4898"/>
+  <surface id="5357" type="z-cylinder" coeffs="-4.068869048002983 1.4809472206001462 0.5816"/>
+  <surface id="5358" type="z-cylinder" coeffs="-4.068869048002983 1.4809472206001462 0.6122"/>
+  <surface id="5359" type="z-cylinder" coeffs="-4.068869048002983 1.4809472206001462 0.654"/>
+  <surface id="5360" type="z-cylinder" coeffs="-4.33 5.30272064030804e-16 0.3061"/>
+  <surface id="5361" type="z-cylinder" coeffs="-4.33 5.30272064030804e-16 0.4898"/>
+  <surface id="5362" type="z-cylinder" coeffs="-4.33 5.30272064030804e-16 0.5816"/>
+  <surface id="5363" type="z-cylinder" coeffs="-4.33 5.30272064030804e-16 0.6122"/>
+  <surface id="5364" type="z-cylinder" coeffs="-4.33 5.30272064030804e-16 0.654"/>
+  <surface id="5365" type="z-cylinder" coeffs="-4.068869048002983 -1.4809472206001453 0.3061"/>
+  <surface id="5366" type="z-cylinder" coeffs="-4.068869048002983 -1.4809472206001453 0.4898"/>
+  <surface id="5367" type="z-cylinder" coeffs="-4.068869048002983 -1.4809472206001453 0.5816"/>
+  <surface id="5368" type="z-cylinder" coeffs="-4.068869048002983 -1.4809472206001453 0.6122"/>
+  <surface id="5369" type="z-cylinder" coeffs="-4.068869048002983 -1.4809472206001453 0.654"/>
+  <surface id="5370" type="z-cylinder" coeffs="-3.3169724387051764 -2.7832703499427134 0.3061"/>
+  <surface id="5371" type="z-cylinder" coeffs="-3.3169724387051764 -2.7832703499427134 0.4898"/>
+  <surface id="5372" type="z-cylinder" coeffs="-3.3169724387051764 -2.7832703499427134 0.5816"/>
+  <surface id="5373" type="z-cylinder" coeffs="-3.3169724387051764 -2.7832703499427134 0.6122"/>
+  <surface id="5374" type="z-cylinder" coeffs="-3.3169724387051764 -2.7832703499427134 0.654"/>
+  <surface id="5375" type="z-cylinder" coeffs="-2.165000000000002 -3.7498899983866183 0.3061"/>
+  <surface id="5376" type="z-cylinder" coeffs="-2.165000000000002 -3.7498899983866183 0.4898"/>
+  <surface id="5377" type="z-cylinder" coeffs="-2.165000000000002 -3.7498899983866183 0.5816"/>
+  <surface id="5378" type="z-cylinder" coeffs="-2.165000000000002 -3.7498899983866183 0.6122"/>
+  <surface id="5379" type="z-cylinder" coeffs="-2.165000000000002 -3.7498899983866183 0.654"/>
+  <surface id="5380" type="z-cylinder" coeffs="-0.7518966092978083 -4.26421757054286 0.3061"/>
+  <surface id="5381" type="z-cylinder" coeffs="-0.7518966092978083 -4.26421757054286 0.4898"/>
+  <surface id="5382" type="z-cylinder" coeffs="-0.7518966092978083 -4.26421757054286 0.5816"/>
+  <surface id="5383" type="z-cylinder" coeffs="-0.7518966092978083 -4.26421757054286 0.6122"/>
+  <surface id="5384" type="z-cylinder" coeffs="-0.7518966092978083 -4.26421757054286 0.654"/>
+  <surface id="5385" type="z-cylinder" coeffs="0.7518966092978068 -4.264217570542861 0.3061"/>
+  <surface id="5386" type="z-cylinder" coeffs="0.7518966092978068 -4.264217570542861 0.4898"/>
+  <surface id="5387" type="z-cylinder" coeffs="0.7518966092978068 -4.264217570542861 0.5816"/>
+  <surface id="5388" type="z-cylinder" coeffs="0.7518966092978068 -4.264217570542861 0.6122"/>
+  <surface id="5389" type="z-cylinder" coeffs="0.7518966092978068 -4.264217570542861 0.654"/>
+  <surface id="5390" type="z-cylinder" coeffs="2.1649999999999974 -3.749889998386621 0.3061"/>
+  <surface id="5391" type="z-cylinder" coeffs="2.1649999999999974 -3.749889998386621 0.4898"/>
+  <surface id="5392" type="z-cylinder" coeffs="2.1649999999999974 -3.749889998386621 0.5816"/>
+  <surface id="5393" type="z-cylinder" coeffs="2.1649999999999974 -3.749889998386621 0.6122"/>
+  <surface id="5394" type="z-cylinder" coeffs="2.1649999999999974 -3.749889998386621 0.654"/>
+  <surface id="5395" type="z-cylinder" coeffs="3.3169724387051738 -2.7832703499427165 0.3061"/>
+  <surface id="5396" type="z-cylinder" coeffs="3.3169724387051738 -2.7832703499427165 0.4898"/>
+  <surface id="5397" type="z-cylinder" coeffs="3.3169724387051738 -2.7832703499427165 0.5816"/>
+  <surface id="5398" type="z-cylinder" coeffs="3.3169724387051738 -2.7832703499427165 0.6122"/>
+  <surface id="5399" type="z-cylinder" coeffs="3.3169724387051738 -2.7832703499427165 0.654"/>
+  <surface id="5400" type="z-cylinder" coeffs="4.068869048002983 -1.480947220600145 0.3061"/>
+  <surface id="5401" type="z-cylinder" coeffs="4.068869048002983 -1.480947220600145 0.4898"/>
+  <surface id="5402" type="z-cylinder" coeffs="4.068869048002983 -1.480947220600145 0.5816"/>
+  <surface id="5403" type="z-cylinder" coeffs="4.068869048002983 -1.480947220600145 0.6122"/>
+  <surface id="5404" type="z-cylinder" coeffs="4.068869048002983 -1.480947220600145 0.654"/>
+</geometry>

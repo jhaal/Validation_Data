@@ -1,0 +1,774 @@
+[
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_m10/materials.xml",
+    "sha256": "cbae64d4eb0f2f9ea506663f4e8588b88ec5d2c2d18c4ba593a79d120b09fdeb"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_m10/settings.xml",
+    "sha256": "cb4842b05193d79a3552bf80e2f25648eb4b2acb5a7f138faf518d609b442cb6"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_m5/materials.xml",
+    "sha256": "06373b2df67fcd3fc087814b358c505f4deca37191bcad4114d5494342828611"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_m5/settings.xml",
+    "sha256": "e6b35dd3ba3e9e59e4aceb2dd067c2d87d5a945d36af9bf0421c33911d91c3ba"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_p10/materials.xml",
+    "sha256": "155af94452424787b7935b8a040b070243cace301261155d0d497dde020d2b6d"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_p10/settings.xml",
+    "sha256": "9c7e6d971c5a1705cbb9a582a0ffe33e8450319ce0336405ea19c6d7f69163d3"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_p5/materials.xml",
+    "sha256": "66de40c4f500fbb6388aee4687ce07966f18e189cdc1673bb947893a8ba7c5be"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_fixed_p5/settings.xml",
+    "sha256": "1083944cbf43164a55b63e7929565e00262406641a943d9277840f2054b57abe"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_m10/materials.xml",
+    "sha256": "61c407948826ed1b30d394827f6a04a961f365fb398a052b3f349c0923417d01"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_m10/settings.xml",
+    "sha256": "eb5936834fb3f0f259cab77198204c3716aa162c015431478fc81cf6ecbb0a76"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_m5/materials.xml",
+    "sha256": "b33285cd8e4e7ae4e07afde0c440f2ea81dfbeb8a3b5b11d2cf1a748d893f5cf"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_m5/settings.xml",
+    "sha256": "f2d11165f92d2f3b4c56b5af6491274c7bc3a16e58b412ca55fd124d81ca6ead"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_p10/materials.xml",
+    "sha256": "3196944e315d3fc32698e048572d336fe1b476d84140f067c612d5bb430bbf3c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_p10/settings.xml",
+    "sha256": "896022739982f815283df2f6483441b7036f4c1125ddca424b6dd1c49ca24e34"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_p5/materials.xml",
+    "sha256": "e4f8d56088f82238b2acf561c68400d4159afc746bb5abfae71796a445062c71"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_coolant_pressure_p5/settings.xml",
+    "sha256": "9c27cde961b5f932b0d58b6e522a075272b5efbdbd91606d0d2ddb9407d9b767"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_m100/materials.xml",
+    "sha256": "74a8ea105535854451746cf4c55022ca2aec65a0d4c365c2d42ae9535f3f8a01"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_m100/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_m100/settings.xml",
+    "sha256": "c974ab5d26ae9388206449e0a3492382396be985ec81082f6ad6e0ea99b5bdcd"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_m100/tallies.xml",
+    "sha256": "6e5abe772514f19d4f777edf6906571ded1a7de31b2cc200f36515ea95585290"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_m50/materials.xml",
+    "sha256": "9f8172af82769ad09da3c2c1d6e02c70706fbb69b6a6f76663b2cec3d98ecd62"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_m50/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_m50/settings.xml",
+    "sha256": "abeef55d572232fc2767d6cb22ede1513b3510c3d5ac4a760c3fadc4bf705832"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_p100/materials.xml",
+    "sha256": "811004c19e270708f44814dc18c5ca0b12a4acf6d0640b4e3a3a872bb26c045f"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_p100/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_p100/settings.xml",
+    "sha256": "47ee9d767ad2f3e92278a38a6b45e2303a3ac1c83ee8397d440e8d288a7bb72d"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_p100/tallies.xml",
+    "sha256": "6e5abe772514f19d4f777edf6906571ded1a7de31b2cc200f36515ea95585290"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_p50/materials.xml",
+    "sha256": "4421da9d362b1a786bbdd65c7428cf8c11ac1ca8373faf36926c2e79ee5da585"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_p50/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_fuel_fixed_p50/settings.xml",
+    "sha256": "6f0d75cc8658a9e41402e1340838f96f56faa11acbe6d31a650d48d63d0d15d0"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_m10/materials.xml",
+    "sha256": "50887a44b3097ba2bb9f5f11fe062b4b85404a23166e5f308fb2b0cbef8a81e4"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_m10/settings.xml",
+    "sha256": "6aa75708ccc610656f2da241563726788cf3e3a045a4fd86d3ec7162ee31f6de"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_m5/materials.xml",
+    "sha256": "8a4c97265c7cba2b993d0f6abed0d16ef7bb69ba1b9b2e8352b81aac9735d474"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_m5/settings.xml",
+    "sha256": "b31f4f7358d424c741f69df9dd46b4704ecc076dbb3b3ae2adbbbd323431a6c9"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_p10/materials.xml",
+    "sha256": "3b0ddcdc74cc8a9ba469e2f54367425bcbeb64b9fe589ae1dd7a318d85346d01"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_p10/settings.xml",
+    "sha256": "8dd3ff82d26fca10f1f1f89db041f05b80ef27df164c1c6ece00006ef431127e"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_p5/materials.xml",
+    "sha256": "7aa10bf2e23014a5c53a6520cb920a0aefd3d4de7bdf912c6d915b9215317331"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_fixed_p5/settings.xml",
+    "sha256": "c543d3ec1fecefa69bd68611b89260e6342e9e2140708d62224f00b1e7208c17"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_m10/materials.xml",
+    "sha256": "aa988928d6a4b1df110d66b7ed061d93c2004011932acdec93cf0b1f4372c2a4"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_m10/settings.xml",
+    "sha256": "a0fe0bd4f75c9619c1690821c48eb332223fa50f4499a9c2387fe87594d4f671"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_m5/materials.xml",
+    "sha256": "c708b2e1aea33aa9f7c8b6b3baacc1dbab7b4ddcbab6e8ec64ead66b21dc5522"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_m5/settings.xml",
+    "sha256": "c78d720479deca6596eef14c175258e55d673c0015c34b1ee5d572e28643d538"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_p10/materials.xml",
+    "sha256": "82ae194d79bbbefc7dc6430f8f8f660e62b665c0be1023745cbd113b55b46e36"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_p10/settings.xml",
+    "sha256": "396d89dfbbf0ee7baf17c03b069c3793d87fd90ba5cf87ece9a0a551688c7ff9"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_p5/materials.xml",
+    "sha256": "cf4bdb945c18efc6e28c4a8211f45c2b5eb370a77976008e251b2c53518cd2d8"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_moderator_pressure_p5/settings.xml",
+    "sha256": "258a5fa91388afac940715d6c48a86f944b917aa115d4f1a63240c92f0a1ce00"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_nominal/materials.xml",
+    "sha256": "84e2055b6c4c87124f0af3cee998fb4467ee9cf37bc75f077a5191ae34d4816c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_nominal/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_nominal/settings.xml",
+    "sha256": "7eb0dc58d3d9c21617ec09f3e2f8b1bfca12e9fa6660468a44779d300f2c7dbf"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU00p0_nominal/tallies.xml",
+    "sha256": "6e5abe772514f19d4f777edf6906571ded1a7de31b2cc200f36515ea95585290"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_m10/materials.xml",
+    "sha256": "993e3691b72a1da7b2829cf4b67f21b525cfecae56b995833b29f4be5e175664"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_m10/settings.xml",
+    "sha256": "cdaf374dbc96e2ba7a5d6e182e8acfac24544c5995b0db3ecfbca2459bd3886c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_m5/materials.xml",
+    "sha256": "37588fc8465ffd00d27af8e081ef2dc63f503b857bb43b1fd1119273f1797839"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_m5/settings.xml",
+    "sha256": "d2011e6b088347e32c2b3b2c0a4610dcd46287c6ede220d4a55552a7bd287919"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_p10/materials.xml",
+    "sha256": "1092f91f576b35406d9790ca653dd7465f5ca28356732087d12acc94d8554269"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_p10/settings.xml",
+    "sha256": "2b00d5b1accfd353e72f1a41822d6b22bf37396e6817a75f4fd1d8cf97ebf73f"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_p5/materials.xml",
+    "sha256": "f55bc9e6d2f48d6ced04e697fc57207a31a7099a4cf1c51b08fa47e2e94f329e"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_fixed_p5/settings.xml",
+    "sha256": "167a18b245bc2ad7591613fd0652ff8f1a4ce3b7477ac8c7cbca54a021dede58"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_m10/materials.xml",
+    "sha256": "e749a04852fa26d8bd47ce575ed94b7b182079066257ffef6fccea403ebf2337"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_m10/settings.xml",
+    "sha256": "6efcffb44112d432d051fa8655ab059f4a09b8b214b4e8f54897ff97d4ca489c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_m5/materials.xml",
+    "sha256": "8e565c13c91114463443a70b86f864ae6770c2a7296b0338166577122aeb0f2f"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_m5/settings.xml",
+    "sha256": "fba99978af73b32f0e5cdf292bcfb4177069711848139f53cc6d740a72f76164"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_p10/materials.xml",
+    "sha256": "6206df17a72b53a82fe14334556731053c2791f04ad457e9c9542ddd1c61a09c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_p10/settings.xml",
+    "sha256": "6c63653c32ba3039c64fc7be0069b8776663cef84e1a57d3d6818fa9dcdfb059"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_p5/materials.xml",
+    "sha256": "88f2debad38540624633b1ca4d99171258243bb47bfe30121cad7319e3cba387"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_coolant_pressure_p5/settings.xml",
+    "sha256": "039a54399d8a26e2521506b8f97ffb73ec7c3fc8d6baf47ac7c08083b54b1c14"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_m100/materials.xml",
+    "sha256": "2dc07193bb60f0eccd47abc9d440070edd3b1098acd7833c699091394d92f440"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_m100/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_m100/settings.xml",
+    "sha256": "8d7e3a668adb3b42bd8d6209b423e3c17bc34e43f8c21e42bcfcd1903b9fef91"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_m50/materials.xml",
+    "sha256": "8c67efa6e7cbd2ef8cad2bfd02c7a72e56674ce732921698b9be5fb159be37eb"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_m50/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_m50/settings.xml",
+    "sha256": "03f14ab217549a5605d73451198f7e442e1eed67f6102635a594552228a22c8e"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_p100/materials.xml",
+    "sha256": "4b4bd4d0a50134f67271acbfe3f461d974b115870c89055abf63512ade737f5e"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_p100/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_p100/settings.xml",
+    "sha256": "570a8ccffff9a8f44436752c048e2b95e905c1872d012ec4ec18ed605d0530bb"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_p50/materials.xml",
+    "sha256": "a69aabb0a70d2b8848cfe25009077a3195083794e80586b5f93c0ed2f2f9c329"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_p50/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_fuel_fixed_p50/settings.xml",
+    "sha256": "48254d7cc2865ff7c5a041de6cdc2994b292b30b4396ac3a4e4bccef31e0be54"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_m10/materials.xml",
+    "sha256": "8f05b936a222a457c6c8d69fc1923a682e36e503c391858ce71a456a074cfa2d"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_m10/settings.xml",
+    "sha256": "a8538f779a75f7bf6d36d86f27e2d2cb20d08c5a78dc1045845bf384abfec796"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_m5/materials.xml",
+    "sha256": "f30494b698512c7c3b47551211e2ddc0a3abb2481d1119a6406ff66dd00582b1"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_m5/settings.xml",
+    "sha256": "ae3464eefc804feeb5fad9d8fb4bcd6082c9c7f9826109edd3a7145be1ac1218"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_p10/materials.xml",
+    "sha256": "8961fffc9714c7678e275be315bef96c50201c2e4f663e558158ebfdb6272961"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_p10/settings.xml",
+    "sha256": "d1f778e25f486ad6f2651a09c652acc21601d8b2c6f36dac414dc04348c37255"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_p5/materials.xml",
+    "sha256": "0bb1c1471a00f843aac1aae7122efe0e7b0eb3376fd8d5f76a43fdf24e89d9ec"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_fixed_p5/settings.xml",
+    "sha256": "34f8d24ce5d5c721578086bee8a7271d47e59de3a8b439f0c6b52052e8cada42"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_m10/materials.xml",
+    "sha256": "08e765490f85ee89a1dd57a9388684e16bc5abf149ce9f8bf1dad6b83d2814aa"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_m10/settings.xml",
+    "sha256": "0014c4af75b79b34453db993203e2e022933db674911c72d09a73b6cdc2589d3"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_m5/materials.xml",
+    "sha256": "2935257a1ac0f21504d47de38417d7bb4fd12504318e74853308c41599fff8c7"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_m5/settings.xml",
+    "sha256": "de2c291a18260db1849ff805b4cba02874360e88e08ea2d58b4fe49e6c2331e1"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_p10/materials.xml",
+    "sha256": "b831b5ccb65bad758e12eea975a7f9bcf9ec655ed5c9aced769a98e4ec9b6c92"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_p10/settings.xml",
+    "sha256": "d58d3d4e986fb29f2cbd93232d5146045afac7814a92b9fbb510b6e48f6adbbc"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_p5/materials.xml",
+    "sha256": "4c876a6a24e243542240e8b9b532a4815e223f4f338645fca864d7036d2c2742"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_moderator_pressure_p5/settings.xml",
+    "sha256": "93943bb0dd9f7107d1fb1617dd72acbc6e6946df57aef9591e1371b1df3a33a9"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_nominal/materials.xml",
+    "sha256": "93d9d8f8a3099f9132b4b239bd8587774578ef60b21455f8071512b0533bffec"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_nominal/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU07p5_nominal/settings.xml",
+    "sha256": "7b03a6aa0162f39475b44698af46322e0fb559b08e98cdaaed833a20e89551b1"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_m10/materials.xml",
+    "sha256": "8b7d35941ecb0fcb8d63303bba0ac3223de363a578e82f6ad0c8ca8b75e7e201"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_m10/settings.xml",
+    "sha256": "61169440ad8d4ee26422740a4e8def50c6f8cfcc1fc92d3863f04526057959d5"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_m5/materials.xml",
+    "sha256": "e3526d88a181e2812bd0da82abd975fd156d885d7c3034bf830d8a7019d4ad52"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_m5/settings.xml",
+    "sha256": "6055330873a08b76eeedfd7bb5931d750c0a134cc605053e53fb4350bf3df545"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_p10/materials.xml",
+    "sha256": "c851da530b5ae12e8188666da7edd602a522eab7d4cd65873ff03e7cd05896bd"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_p10/settings.xml",
+    "sha256": "79634fe1ee6012b6014eb6e49b43020201c08b464550f41de8b97a176f8e11ca"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_p5/materials.xml",
+    "sha256": "e7a296b8fd94a99b724fc6f6f0a8db92b4821b29eb0958d5ed1e3f6e2e67902f"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_fixed_p5/settings.xml",
+    "sha256": "46733627b2e1541783a8137daf5fe6287112b5956dbfffd0e5133e126ce5a848"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_m10/materials.xml",
+    "sha256": "a35c24c99b450aea113560c99adf5533d64c8969af1c5fb7e4cbb31a29fcc48f"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_m10/settings.xml",
+    "sha256": "fbe7372c30b5d00a197645830918ecee5745cf44b7417b1177fe2d30e9662328"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_m5/materials.xml",
+    "sha256": "eafe2023547de7503ca508d8f580e68eb9f31e71521de61a3a054bc5a54e3c0d"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_m5/settings.xml",
+    "sha256": "f139010a112ac8c1446d81511da4d25b58be60dc0f17bddf439b630b1f3f9f59"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_p10/materials.xml",
+    "sha256": "6307ca2f3112bbd2849b263a18f86868c6fb53a54bbf28ceff39b1094cd01c3e"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_p10/settings.xml",
+    "sha256": "443938ed210b83a471acd421d04a246734b76425b08916954af2da2088a616f7"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_p5/materials.xml",
+    "sha256": "3a017dc6c1ee7d4e0b26e5fdcc2c6184f3641e9e2198294326f91e2bf4ae4009"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_coolant_pressure_p5/settings.xml",
+    "sha256": "655fdf4c51d49a46574a3f08ebdaee038dcb635c7ab3b4c5807a7fb4354fbaf6"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_m100/materials.xml",
+    "sha256": "b0288fc0b1e4faa36df11d4b72cca09435d3ee28ce127a30b47a218c98349f5e"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_m100/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_m100/settings.xml",
+    "sha256": "5e04f1e5188890cd7f13f6a10df4b1eeb8d98e4707b0a1468979c86a4a593082"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_m50/materials.xml",
+    "sha256": "f9a3ca8dee71ea62469e2328b86e674d596ab7c2fb577422e937810fe086936a"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_m50/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_m50/settings.xml",
+    "sha256": "b073a4b2f10336f3dd01b697902f5014255dc0a1bcf0962e4d0c534eeb7222e7"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_p100/materials.xml",
+    "sha256": "5e8a88b6a6ce51e37f977cf8af7aea14ebabf328fa2f8f52b81b45a32151f3f4"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_p100/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_p100/settings.xml",
+    "sha256": "bdeeb148d7f81e0323ef1a5ef92c90047d75c4e315e6b0ed5f8f43b2a7a8a739"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_p50/materials.xml",
+    "sha256": "01e244ffeffddd86b24ab83f8b6a281c034897f256df577d79cd775680710262"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_p50/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_fuel_fixed_p50/settings.xml",
+    "sha256": "a0a92d6521a81a591ee5a711b211659b8cf7cb93b1b78082faac5727a3446713"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_m10/materials.xml",
+    "sha256": "08e606e83e64f24252b1fd737cbf5551132db2b7f5cf768dd7589a1c04b67d8f"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_m10/settings.xml",
+    "sha256": "67faabd060c43441357b239b484aab7cb1da6d80d99c63c0b96e272800462493"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_m5/materials.xml",
+    "sha256": "fab2deb478d66e1eca7bfa41069e1c88924f889ba49b14bcf4408131111a6085"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_m5/settings.xml",
+    "sha256": "420686ebb27c28b259544aee9ba32bcfb0ebbd1c5356f11b84790d3673b8a90a"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_p10/materials.xml",
+    "sha256": "8918b35d1155ca5936f85351eb050d96b6208fab0292127f4c91a67dc7cf419a"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_p10/settings.xml",
+    "sha256": "645887738715019dc3c0fe1af2c40a5ff89a3577dbb6ff570558e49536f87067"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_p5/materials.xml",
+    "sha256": "5114fbe31ff9dc86f91ce8216dbf79991548c9fbc10f8df8cf1cb2951a8fa8d1"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_fixed_p5/settings.xml",
+    "sha256": "bfb8cb4d7500db03d64b3419260ef0cda433800b2c20f56348469d93946e0ef8"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_m10/materials.xml",
+    "sha256": "1b459c873e4148b07553e880fe213b50a674276d83f0bd9a1680a0181b805ef8"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_m10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_m10/settings.xml",
+    "sha256": "cfb40da5c69adb3712ef9b897c867ceeadba84034cdeb7373318a4b1ff97a600"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_m5/materials.xml",
+    "sha256": "aa2590da2be307e08cd97a24bfc0aa93c9a50f7c3a8a5a93189fdecbf8278232"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_m5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_m5/settings.xml",
+    "sha256": "fc964eef20cd4f6c31048d794e31e279843dc02ffd31c2255e4a2184fd1b9db4"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_p10/materials.xml",
+    "sha256": "5164c091a860757256992992bff2e1e13386ee5b340024b7e3405cfb444c20ae"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_p10/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_p10/settings.xml",
+    "sha256": "2d9ebe1d7bc82b2e5622c6b7b3250d912ed81238d532e2f5743a285ec8276ef3"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_p5/materials.xml",
+    "sha256": "9eae5428394d11b2337e144244ceddb9c51970322a689b172ea58e4c971f39ed"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_p5/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_moderator_pressure_p5/settings.xml",
+    "sha256": "b277e6710a7fd34dcf639e6a6b64e3cbe6bb9d7a07078ccf5d48e09364db2afd"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_nominal/materials.xml",
+    "sha256": "3bca15b547104a3e8dca77827b1fbb855c14da177bbec050aaf68a6676f9a889"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_nominal/geometry.xml",
+    "sha256": "983b073d085aa151175cc493b486f7fd7c0d0e153223d8d428548e70b338a70c"
+  },
+  {
+    "path": "non_upload/operating_coefficients/openmc_cases/OP_BU20p0_nominal/settings.xml",
+    "sha256": "a382533060b77d392649e4d5b3afa04a835547602fc5086b704d575af6a75ad7"
+  },
+  {
+    "path": "data/operating_coefficient_states.csv",
+    "sha256": "aac23b643a1e0dd19b603e936f8720c5f46bcf1eb24134d5d213eaa5380c70d4"
+  }
+]

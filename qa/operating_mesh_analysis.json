@@ -1,0 +1,13 @@
+{
+  "complete": true,
+  "states_compared": 33,
+  "coefficients_compared": 15,
+  "moderator_rings": [
+    20,
+    40
+  ],
+  "tracking": "8 angles, 10 lines/cm in both meshes",
+  "max_abs_eigenvalue_change_pcm": 5.100000000002325,
+  "max_abs_coefficient_change_pcm_K": 0.017152117144370038,
+  "scope": "Three selected operating reference states and larger central-difference endpoints; not full-domain convergence or an application acceptance criterion"
+}

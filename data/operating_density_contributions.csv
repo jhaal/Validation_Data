@@ -1,0 +1,13 @@
+burnup_GWd_tU,variable,step_K,dragon_density_contribution_pcm_K,openmc_density_contribution_pcm_K,openmc_sd_pcm_K,interpretation
+0.0,coolant,5.0,3.910301342947605,0.8425777959018887,5.207498894492827,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms
+0.0,coolant,10.0,3.922132767847961,6.35840005121454,2.6545917067354257,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms
+0.0,moderator,5.0,-3.2095667243625936,3.636454901965226,5.504259540763465,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms
+0.0,moderator,10.0,-3.1778889725209414,-1.5184761819587034,2.606534898473712,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms
+7.5,coolant,5.0,3.1312920355408522,4.821691896970123,6.310250150194015,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms
+7.5,coolant,10.0,3.1357282075505903,1.204169014662472,3.104509854296964,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms
+7.5,moderator,5.0,-4.180262929320829,-11.365716378515248,6.173528020183899,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms
+7.5,moderator,10.0,-4.133540706714456,-6.288707309871633,3.2747419588378968,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms
+20.0,coolant,5.0,3.022683591331406,2.1358911210511,7.743609913301271,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms
+20.0,coolant,10.0,3.0271175107520323,4.9702746905023565,3.582350388373702,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms
+20.0,moderator,5.0,-5.312209786860695,1.6274610938713536,7.7676085566947926,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms
+20.0,moderator,10.0,-5.2780078611235695,-0.6872800661983973,3.818394591167468,Pressure-path central difference minus fixed-density central difference; includes O(h^2) finite-step terms

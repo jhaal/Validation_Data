@@ -1,0 +1,18 @@
+{
+  "cases": 2132,
+  "n_realizations": [
+    150
+  ],
+  "method": "First-order ratio standard-error upper bound, arbitrary covariance; not a confidence interval",
+  "covariance_available": false,
+  "max_relative_sd_upper_bound_pct": {
+    "Sa1_openmc_rate": 0.11213922180310551,
+    "fission1_openmc_rate": 0.07954509518583246,
+    "nuSf1_openmc_rate": 0.0818636905985691,
+    "Sa2_openmc_rate": 0.1114613695352039,
+    "fission2_openmc_rate": 0.1152842171246087,
+    "nuSf2_openmc_rate": 0.11527866862653502,
+    "thermal_to_fast_flux_ratio_from_tally": 0.07279695028780328,
+    "nuSf2_over_Sa2_openmc_rate": 0.12166947483745158
+  }
+}

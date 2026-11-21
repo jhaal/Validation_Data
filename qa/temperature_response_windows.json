@@ -1,0 +1,97 @@
+{
+  "scope": "Fixed-density fitted lattice responses; no operating coefficients calculated",
+  "uncertainty": "Independent-state standard errors and arbitrary-covariance first-order upper bounds; excludes model-form uncertainty",
+  "crossovers_are_point_estimates": true,
+  "windows": {
+    "cold": {
+      "openmc_point_estimate_crossovers_GWd_tU": [
+        14.026539330540404
+      ],
+      "dragon_point_estimate_crossovers_GWd_tU": [
+        12.384935118997317
+      ]
+    },
+    "full": {
+      "openmc_point_estimate_crossovers_GWd_tU": [
+        5.043795344562447
+      ],
+      "dragon_point_estimate_crossovers_GWd_tU": [
+        4.731771850115816
+      ]
+    },
+    "within_fuel_tabulation": {
+      "openmc_point_estimate_crossovers_GWd_tU": [
+        6.669450711468847
+      ],
+      "dragon_point_estimate_crossovers_GWd_tU": [
+        6.19583715129298
+      ]
+    },
+    "near_nominal": {
+      "openmc_point_estimate_crossovers_GWd_tU": [
+        5.701790331010653,
+        6.4834113980422226,
+        7.285781181789986,
+        9.836939057665644,
+        10.11711189188702
+      ],
+      "dragon_point_estimate_crossovers_GWd_tU": [
+        6.185521398637891
+      ]
+    }
+  },
+  "example_at_10_GWd_tU": [
+    {
+      "burnup_GWd_tU": 10.0,
+      "window": "cold",
+      "Tmin_K": 293.15,
+      "Tmax_K": 900.0,
+      "points": 15,
+      "openmc_slope_pcm_K": -0.2992612001280563,
+      "openmc_sd_independent_pcm_K": 0.04070613135289938,
+      "openmc_sd_upper_bound_pcm_K": 0.13677732789628713,
+      "dragon_slope_pcm_K": -0.20392577115236987,
+      "openmc_sign_at_2sd_independent": "negative",
+      "fuel_points_above_2000K": 0
+    },
+    {
+      "burnup_GWd_tU": 10.0,
+      "window": "full",
+      "Tmin_K": 293.15,
+      "Tmax_K": 2593.15,
+      "points": 32,
+      "openmc_slope_pcm_K": 0.5025149147158225,
+      "openmc_sd_independent_pcm_K": 0.007783436359030905,
+      "openmc_sd_upper_bound_pcm_K": 0.03892498815967014,
+      "dragon_slope_pcm_K": 0.5817671810429427,
+      "openmc_sign_at_2sd_independent": "positive",
+      "fuel_points_above_2000K": 6
+    },
+    {
+      "burnup_GWd_tU": 10.0,
+      "window": "within_fuel_tabulation",
+      "Tmin_K": 293.15,
+      "Tmax_K": 1993.15,
+      "points": 26,
+      "openmc_slope_pcm_K": 0.34850467348358993,
+      "openmc_sd_independent_pcm_K": 0.011717211134580777,
+      "openmc_sd_upper_bound_pcm_K": 0.052124696930526945,
+      "dragon_slope_pcm_K": 0.4182332723337308,
+      "openmc_sign_at_2sd_independent": "positive",
+      "fuel_points_above_2000K": 0
+    },
+    {
+      "burnup_GWd_tU": 10.0,
+      "window": "near_nominal",
+      "Tmin_K": 793.15,
+      "Tmax_K": 993.15,
+      "points": 4,
+      "openmc_slope_pcm_K": -0.09295861982536247,
+      "openmc_sd_independent_pcm_K": 0.2519929369647327,
+      "openmc_sd_upper_bound_pcm_K": 0.3672039074564885,
+      "dragon_slope_pcm_K": 0.4343137575723227,
+      "openmc_sign_at_2sd_independent": "unresolved",
+      "fuel_points_above_2000K": 0
+    }
+  ]
+}

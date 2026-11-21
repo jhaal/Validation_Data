@@ -1,0 +1,28 @@
+{
+  "states": 21,
+  "max_abs_change_pcm": 0.1000000000139778,
+  "scope": "Accepted converged controls versus excluded preliminary controls, fresh operating states",
+  "changes_pcm": {
+    "OP_BU00p0_nominal": 0.0,
+    "OP_BU00p0_fuel_fixed_m50": 0.0,
+    "OP_BU00p0_fuel_fixed_p50": -0.1000000000139778,
+    "OP_BU00p0_fuel_fixed_m100": 0.09999999999177334,
+    "OP_BU00p0_fuel_fixed_p100": 0.0,
+    "OP_BU00p0_coolant_fixed_m5": 0.0,
+    "OP_BU00p0_coolant_fixed_p5": 0.0,
+    "OP_BU00p0_coolant_fixed_m10": 0.0,
+    "OP_BU00p0_coolant_fixed_p10": 0.0,
+    "OP_BU00p0_coolant_pressure_m5": -0.1000000000139778,
+    "OP_BU00p0_coolant_pressure_p5": 0.0,
+    "OP_BU00p0_coolant_pressure_m10": 0.0,
+    "OP_BU00p0_coolant_pressure_p10": 0.0,
+    "OP_BU00p0_moderator_fixed_m5": 0.0,
+    "OP_BU00p0_moderator_fixed_p5": 0.0,
+    "OP_BU00p0_moderator_fixed_m10": -0.09999999999177334,
+    "OP_BU00p0_moderator_fixed_p10": 0.0,
+    "OP_BU00p0_moderator_pressure_m5": 0.0,
+    "OP_BU00p0_moderator_pressure_p5": 0.0,
+    "OP_BU00p0_moderator_pressure_m10": 0.0,
+    "OP_BU00p0_moderator_pressure_p10": 0.0
+  }
+}

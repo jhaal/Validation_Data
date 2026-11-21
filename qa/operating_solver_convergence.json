@@ -1,0 +1,16 @@
+{
+  "complete": true,
+  "states": 3,
+  "max_eigenvalue_change_pcm": 0.0,
+  "per_state_changes_pcm": {
+    "OP_BU00p0_nominal": 0.0,
+    "OP_BU00p0_fuel_fixed_m100": 0.0,
+    "OP_BU00p0_fuel_fixed_p100": 0.0
+  },
+  "fuel_100K_slope_baseline_pcm_K": -1.1252468789009762,
+  "fuel_100K_slope_tighter_pcm_K": -1.1252468789009762,
+  "fuel_slope_change_pcm_K": 0.0,
+  "precision_note": "Comparisons use the printed seven-significant-digit eigenvalues",
+  "baseline_controls": "EXTE 200 1E-6 UNKT 5E-5 THER 100 1E-5",
+  "tighter_controls": "EXTE 500 5E-7 UNKT 3E-5 THER 200 5E-6"
+}

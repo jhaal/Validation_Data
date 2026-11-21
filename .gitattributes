@@ -8,3 +8,6 @@
 *.inp -text
 *.xml -text
 *.rx -text
+
+# Python CSV exports retain their original CRLF bytes for hash verification.
+*.csv whitespace=cr-at-eol

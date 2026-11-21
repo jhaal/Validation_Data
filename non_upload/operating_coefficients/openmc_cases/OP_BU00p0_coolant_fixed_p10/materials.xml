@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <cross_sections>/Volumes/Alok_Jha_Orico/OpenMC/endfb-viii.1-hdf5-candu-fullgrid-purr/cross_sections.xml</cross_sections>
+  <material id="271" name="fuel_zone_11_BU0.000" depletable="true" temperature="900.0">
+    <density value="0.0679209981462926" units="atom/b-cm" />
+    <nuclide name="O16" ao="0.6666568449823579" /><nuclide name="U235" ao="0.0023704010242285877" /><nuclide name="U238" ao="0.3309727539934136" /></material>
+  <material id="272" name="fuel_zone_12_BU0.000" depletable="true" temperature="900.0">
+    <density value="0.0679209981462926" units="atom/b-cm" />
+    <nuclide name="O16" ao="0.6666568449823579" /><nuclide name="U235" ao="0.0023704010242285877" /><nuclide name="U238" ao="0.3309727539934136" /></material>
+  <material id="273" name="fuel_zone_13_BU0.000" depletable="true" temperature="900.0">
+    <density value="0.0679209981462926" units="atom/b-cm" />
+    <nuclide name="O16" ao="0.6666568449823579" /><nuclide name="U235" ao="0.0023704010242285877" /><nuclide name="U238" ao="0.3309727539934136" /></material>
+  <material id="274" name="fuel_zone_14_BU0.000" depletable="true" temperature="900.0">
+    <density value="0.0679209981462926" units="atom/b-cm" />
+    <nuclide name="O16" ao="0.6666568449823579" /><nuclide name="U235" ao="0.0023704010242285877" /><nuclide name="U238" ao="0.3309727539934136" /></material>
+  <material id="275" name="coolant_D2O" temperature="571.15">
+    <density value="0.07383808732362804" units="atom/b-cm" />
+    <nuclide name="H2" ao="0.6665300447513814" />
+    <nuclide name="H1" ao="0.0006671874735166636" />
+    <nuclide name="O16" ao="0.33280276777510187" />
+    <sab name="c_D_in_D2O" />
+    <sab name="c_O_in_D2O" />
+  </material>
+  <material id="276" name="moderator_D2O" temperature="343.15">
+    <density value="0.09799342033233467" units="atom/b-cm" />
+    <nuclide name="H2" ao="0.6665300447513814" />
+    <nuclide name="H1" ao="0.0006671874735166636" />
+    <nuclide name="O16" ao="0.33280276777510187" />
+    <sab name="c_D_in_D2O" />
+    <sab name="c_O_in_D2O" />
+  </material>
+  <material id="277" name="pressure_tube_ZrNb" temperature="561.15">
+    <density value="0.042867699999999995" units="atom/b-cm" />
+    <nuclide name="Zr90" ao="0.5014453772887278" />
+    <nuclide name="Zr91" ao="0.1093531026857051" />
+    <nuclide name="Zr92" ao="0.16714845909624265" />
+    <nuclide name="Zr94" ao="0.16939010023864123" />
+    <nuclide name="Zr96" ao="0.027289544342243694" />
+    <nuclide name="Nb93" ao="0.025373416348439506" />
+  </material>
+  <material id="278" name="calandria_tube_ZrFeCrNi" temperature="343.15">
+    <density value="0.04257277871" units="atom/b-cm" />
+    <nuclide name="Zr90" ao="0.5119768702079159" />
+    <nuclide name="Zr91" ao="0.11164976644767381" />
+    <nuclide name="Zr92" ao="0.170658956735972" />
+    <nuclide name="Zr94" ao="0.17294767743855355" />
+    <nuclide name="Zr96" ao="0.027862686814036242" />
+    <nuclide name="Fe54" ao="0.00013591079030603404" />
+    <nuclide name="Fe56" ao="0.0020573709927800953" />
+    <nuclide name="Fe57" ao="4.668006318162172e-05" />
+    <nuclide name="Fe58" ao="6.105074835976098e-06" />
+    <nuclide name="Cr50" ao="8.082159784397122e-05" />
+    <nuclide name="Cr52" ao="0.0014987276361411834" />
+    <nuclide name="Cr53" ao="0.00016673330271328206" />
+    <nuclide name="Cr54" ao="4.073494971547748e-05" />
+    <nuclide name="Ni58" ao="0.000600430621973841" />
+    <nuclide name="Ni60" ao="0.00022358183535161594" />
+    <nuclide name="Ni61" ao="9.560099489216544e-06" />
+    <nuclide name="Ni62" ao="2.9983948397997343e-05" />
+    <nuclide name="Ni64" ao="7.401443118064209e-06" />
+  </material>
+  <material id="279" name="sheath_ZrFeCrNi" temperature="561.15">
+    <density value="0.049919725266" units="atom/b-cm" />
+    <nuclide name="Zr90" ao="0.5117819031227839" />
+    <nuclide name="Zr91" ao="0.1116072488442689" />
+    <nuclide name="Zr92" ao="0.17059396770759466" />
+    <nuclide name="Zr94" ao="0.17288181683720089" />
+    <nuclide name="Zr96" ao="0.027852076360423614" />
+    <nuclide name="Fe54" ao="0.0002071525823689416" />
+    <nuclide name="Fe56" ao="0.0031358345657126114" />
+    <nuclide name="Fe57" ao="7.113220237248572e-05" />
+    <nuclide name="Fe58" ao="9.305139351725856e-06" />
+    <nuclide name="Cr50" ao="7.919114095550719e-05" />
+    <nuclide name="Cr52" ao="0.0014684776330275249" />
+    <nuclide name="Cr53" ao="0.0001633682869155236" />
+    <nuclide name="Cr54" ao="3.991408184606094e-05" />
+    <nuclide name="Ni58" ao="7.487621336221159e-05" />
+    <nuclide name="Ni60" ao="2.7880762415732802e-05" />
+    <nuclide name="Ni61" ao="1.1921940612228209e-06" />
+    <nuclide name="Ni62" ao="3.7396039141895386e-06" />
+    <nuclide name="Ni64" ao="9.227214243378966e-07" />
+  </material>
+  <material id="280" name="helium_gap" temperature="561.15">
+    <density value="0.00020877" units="atom/b-cm" />
+    <nuclide name="He4" ao="1.0" />
+  </material>
+</materials>

@@ -1,0 +1,90 @@
+*DECK MATDPLD2O
+PARAMETER LIBRARY ::
+  EDIT 1
+  ::: LINKED_LIST LIBRARY ;
+;
+REAL TfuelK TcoolK TmodK ;
+STRING LibName ;
+:: >>TfuelK<< >>TcoolK<< >>TmodK<< >>LibName<< ;
+
+MODULE LIB: ;
+
+STRING IsoU5 IsoU8
+       IsoO16 IsoD2 IsoH1 IsoZr IsoNb IsoFe4 IsoFe6 IsoFe7 IsoFe8
+       IsoCr0 IsoCr2 IsoCr3 IsoCr4 IsoNi8 IsoNi0 IsoNi1 IsoNi2 IsoNi4 IsoHe4
+  :=
+       "U235" "U238"
+       "O16" "H2_D2O" "H1_H2O" "Zr0" "Nb93" "Fe54" "Fe56" "Fe57" "Fe58"
+       "Cr50" "Cr52" "Cr53" "Cr54" "Ni58" "Ni60" "Ni61" "Ni62" "Ni64" "He4" ;
+
+REAL NU5 := 1.6100E-04 ;
+REAL NU8 := 2.2480E-02 ;
+REAL NO16F := 4.5280E-02 ;
+
+LIBRARY := LIB: ::
+  EDIT 1
+  NMIX 14
+  CTRA APOL
+  PTSL
+  ANIS 2
+  DEPL LIB: DRAGON FIL: <<LibName>>
+  MIXS LIB: DRAGON FIL: <<LibName>>
+* coolant D2O
+  MIX 1 <<TcoolK>>
+    D2  = <<IsoD2>>  6.4886E-02
+    H1  = <<IsoH1>>  6.4950E-05
+    O16 = <<IsoO16>> 3.2398E-02
+* pressure tube Zr-Nb approximation
+  MIX 2 <<TcoolK>>
+    ZR  = <<IsoZr>>  4.1780E-02 2 IRSET PTSL NONE
+    NB  = <<IsoNb>>  1.0877E-03
+* helium gap
+  MIX 3 <<TcoolK>>
+    HE4 = <<IsoHe4>> 2.0877E-04
+* calandria tube
+  MIX 4 <<TmodK>>
+    ZR  = <<IsoZr>>  4.2364E-02 2 IRSET PTSL NONE
+    FE4 = <<IsoFe4>> 5.7861E-06
+    FE6 = <<IsoFe6>> 8.7588E-05
+    FE7 = <<IsoFe7>> 1.9873E-06
+    FE8 = <<IsoFe8>> 2.5991E-07
+    CR0 = <<IsoCr0>> 3.4408E-06
+    CR2 = <<IsoCr2>> 6.3805E-05
+    CR3 = <<IsoCr3>> 7.0983E-06
+    CR4 = <<IsoCr4>> 1.7342E-06
+    NI8 = <<IsoNi8>> 2.5562E-05
+    NI0 = <<IsoNi0>> 9.5185E-06
+    NI1 = <<IsoNi1>> 4.0700E-07
+    NI2 = <<IsoNi2>> 1.2765E-06
+    NI4 = <<IsoNi4>> 3.1510E-07
+* moderator D2O
+  MIX 5 <<TmodK>>
+    D2  = <<IsoD2>>  6.4886E-02
+    H1  = <<IsoH1>>  6.4950E-05
+    O16 = <<IsoO16>> 3.2398E-02
+* sheath
+  MIX 6 <<TcoolK>>
+    ZR  = <<IsoZr>>  4.9656E-02 2 IRSET PTSL NONE
+    FE4 = <<IsoFe4>> 1.0341E-05
+    FE6 = <<IsoFe6>> 1.5654E-04
+    FE7 = <<IsoFe7>> 3.5509E-06
+    FE8 = <<IsoFe8>> 4.6451E-07
+    CR0 = <<IsoCr0>> 3.9532E-06
+    CR2 = <<IsoCr2>> 7.3306E-05
+    CR3 = <<IsoCr3>> 8.1553E-06
+    CR4 = <<IsoCr4>> 1.9925E-06
+    NI8 = <<IsoNi8>> 3.7378E-06
+    NI0 = <<IsoNi0>> 1.3918E-06
+    NI1 = <<IsoNi1>> 5.9514E-08
+    NI2 = <<IsoNi2>> 1.8668E-07
+    NI4 = <<IsoNi4>> 4.6062E-08
+* four radial fuel zones. Depletion daughters are created by DRAGON chain data.
+  MIX 11 <<TfuelK>>
+    O16 = <<IsoO16>> <<NO16F>>
+    U5  = <<IsoU5>>  <<NU5>> 1 IRSET PTSL NONE
+    U8  = <<IsoU8>>  <<NU8>> 1 IRSET PTSL NONE
+  MIX 12 COMB 11 1.0
+  MIX 13 COMB 11 1.0
+  MIX 14 COMB 11 1.0
+;
+QUIT "LIST" .

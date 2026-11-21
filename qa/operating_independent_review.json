@@ -1,0 +1,698 @@
+{
+  "status": "passed_scoped_numerical_review",
+  "source_diagnostic_summary": {
+    "z_active_halves": {
+      "cases": 63,
+      "mean": -0.05807603307276688,
+      "sd": 0.9879416908126197,
+      "max_abs": 2.0264670947181034
+    },
+    "z_inactive_tail": {
+      "cases": 63,
+      "mean": -0.07730295012772219,
+      "sd": 0.9639314866146325,
+      "max_abs": 2.048047462194776
+    },
+    "entropy_z_inactive_tail": {
+      "cases": 61,
+      "mean": -0.011157813292778715,
+      "sd": 0.9819591698595462,
+      "max_abs": 2.505509893154087
+    }
+  },
+  "states": 63,
+  "decimal_reciprocal_checks": 60,
+  "max_all_step_intercode_z": 1.6512982623830594,
+  "max_step_difference_z": 1.6871889061675909,
+  "mean_lag1": -0.01466312296948189,
+  "schedule_missing_records": 63,
+  "schedule_gap": "Runtime schedule absent from original per-run records. Current runner records it prospectively; do not backfill an unobserved historical environment.",
+  "solver_default_source": "Installed Dragon/src/FLUGPI.f:101 ROUMIN=1.0E-5; EPSOUT=ROUMIN at162; EPSUNK defaults EPSINR at431. Online manual differs.",
+  "accepted_listing_checks": [
+    {
+      "file": "OP_CONV_J2_BU00p0.result",
+      "sha256": "bb0d4f77a2e86740226cb749e184c777597f9a9c0862a96c8d087c7c8f38b8f2",
+      "states": 21
+    },
+    {
+      "file": "OP_CONV_J2_BU07p5.result",
+      "sha256": "76a9bc480725d1c0228a70501579c19adc11b36bd4b626ffda71472e22a03d85",
+      "states": 21
+    },
+    {
+      "file": "OP_CONV_J2_BU20p0.result",
+      "sha256": "61b5e4f5a707b4278a12a8c8bd6ddffe717d92cd1de0bde8b4c364e675a89bd2",
+      "states": 21
+    },
+    {
+      "file": "OP_M40_J2_BU00p0.result",
+      "sha256": "65551016027ee8759fb0dd4303130b2586dfc75ecbea9852b98711072aaa9ced",
+      "states": 11
+    },
+    {
+      "file": "OP_M40_J2_BU07p5.result",
+      "sha256": "bcc3c04cfe7ad0ca8ab920a9248a2d33602e8663bfe4df527afe555563285b49",
+      "states": 11
+    },
+    {
+      "file": "OP_M40_J2_BU20p0.result",
+      "sha256": "e63ff985df963239a94cc46a4b9b003615823d2399ff1f83cc22369865add1aa",
+      "states": 11
+    }
+  ],
+  "source_records": [
+    {
+      "case": "OP_BU00p0_nominal",
+      "lag1": -0.08542276602824196,
+      "entropy": false,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": true,
+      "warnings": [
+        "WARNING: Ignoring number of threads specified on command line."
+      ]
+    },
+    {
+      "case": "OP_BU00p0_fuel_fixed_m50",
+      "lag1": -0.021773672586447867,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_fuel_fixed_p50",
+      "lag1": 0.008491755985125114,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_fuel_fixed_m100",
+      "lag1": -0.0750189826241123,
+      "entropy": false,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": true,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_fuel_fixed_p100",
+      "lag1": 0.055801574729880565,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": true,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_coolant_fixed_m5",
+      "lag1": 0.10738228826885116,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_coolant_fixed_p5",
+      "lag1": 0.011309962221893252,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_coolant_fixed_m10",
+      "lag1": -0.011873688790437101,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_coolant_fixed_p10",
+      "lag1": -0.06398279822372024,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_coolant_pressure_m5",
+      "lag1": 0.13306102470679662,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_coolant_pressure_p5",
+      "lag1": -0.08823137875089769,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_coolant_pressure_m10",
+      "lag1": -0.04731790222551559,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_coolant_pressure_p10",
+      "lag1": 0.037439012555230744,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_moderator_fixed_m5",
+      "lag1": 0.06501900489862462,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_moderator_fixed_p5",
+      "lag1": -0.02295619498712158,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_moderator_fixed_m10",
+      "lag1": 0.007949863917014516,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_moderator_fixed_p10",
+      "lag1": 0.059067793281202936,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_moderator_pressure_m5",
+      "lag1": 0.022083437003989584,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_moderator_pressure_p5",
+      "lag1": 0.06808428432319426,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_moderator_pressure_m10",
+      "lag1": -0.04143063205584877,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU00p0_moderator_pressure_p10",
+      "lag1": 0.007243692108822641,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_nominal",
+      "lag1": -0.07589894836035914,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_fuel_fixed_m50",
+      "lag1": -0.016615618629619713,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_fuel_fixed_p50",
+      "lag1": 0.06703001476917832,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_fuel_fixed_m100",
+      "lag1": -0.06570573535396232,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_fuel_fixed_p100",
+      "lag1": 0.014616402383171665,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_coolant_fixed_m5",
+      "lag1": -0.06335856458387955,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_coolant_fixed_p5",
+      "lag1": -0.08796454300405002,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_coolant_fixed_m10",
+      "lag1": -0.10124323330408633,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_coolant_fixed_p10",
+      "lag1": -0.0282961320665096,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_coolant_pressure_m5",
+      "lag1": 0.129629725968676,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_coolant_pressure_p5",
+      "lag1": -0.012799167220742695,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_coolant_pressure_m10",
+      "lag1": 0.16466951605383365,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_coolant_pressure_p10",
+      "lag1": -0.18842008779224997,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_moderator_fixed_m5",
+      "lag1": -0.11860302106848933,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_moderator_fixed_p5",
+      "lag1": -0.012051418177312928,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_moderator_fixed_m10",
+      "lag1": 0.1443497297581213,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_moderator_fixed_p10",
+      "lag1": -0.05667311004744041,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_moderator_pressure_m5",
+      "lag1": -0.12632599854894996,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_moderator_pressure_p5",
+      "lag1": -0.014394749924405014,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_moderator_pressure_m10",
+      "lag1": 0.026653280588653957,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU07p5_moderator_pressure_p10",
+      "lag1": 0.07871314751778395,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_nominal",
+      "lag1": -0.012967305093811941,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_fuel_fixed_m50",
+      "lag1": -0.08883747593336036,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_fuel_fixed_p50",
+      "lag1": -0.08731038555972788,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_fuel_fixed_m100",
+      "lag1": -0.21178338447340264,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_fuel_fixed_p100",
+      "lag1": -0.12757290174282962,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_coolant_fixed_m5",
+      "lag1": 0.03844407704028299,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_coolant_fixed_p5",
+      "lag1": -0.10860251223689368,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_coolant_fixed_m10",
+      "lag1": -0.16143618058927686,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_coolant_fixed_p10",
+      "lag1": -0.057515632284132194,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_coolant_pressure_m5",
+      "lag1": -0.17503312584294836,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_coolant_pressure_p5",
+      "lag1": -0.12418586023838561,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_coolant_pressure_m10",
+      "lag1": 0.07179047036346824,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_coolant_pressure_p10",
+      "lag1": 0.026952817443703148,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_moderator_fixed_m5",
+      "lag1": 0.029979623387823697,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_moderator_fixed_p5",
+      "lag1": 0.13646558776629508,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_moderator_fixed_m10",
+      "lag1": 0.04519973242605713,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_moderator_fixed_p10",
+      "lag1": 0.006503913988609701,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_moderator_pressure_m5",
+      "lag1": 0.0667431430518379,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_moderator_pressure_p5",
+      "lag1": 0.041057748439306166,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_moderator_pressure_m10",
+      "lag1": 0.002499979821636976,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    },
+    {
+      "case": "OP_BU20p0_moderator_pressure_p10",
+      "lag1": -0.016406243497255647,
+      "entropy": true,
+      "schedule": "not recorded in per-run record",
+      "version": "[ 0 15  4]",
+      "git": "not stored",
+      "tallies": false,
+      "warnings": []
+    }
+  ],
+  "limits": "Finite stationarity/lag checks do not prove source convergence or physical correctness. No material diagnostic triggers observed; no runs discarded or rerun selectively."
+}

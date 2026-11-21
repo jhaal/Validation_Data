@@ -1,0 +1,5 @@
+limit_pcm,nominal_inside,all_inside,all_inside_BU_ge_2p5
+100,30,1453,1393
+200,40,1950,1769
+300,40,2070,1862
+500,41,2132,1872
